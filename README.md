@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .repair one-word domains from Uniq
 
 **Public extract:** 9,284 rows · **Live catalog:** 9,284 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/repair`  
 **Best for:** founders, investors, studios
 
@@ -64,15 +64,15 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| alpha.repair      | available | $9.99     | $46.99        | 90             | 54     | 5      | name.com         |
+| zero.repair       | available | $9.99     | $46.99        | 112            | 53     | 4      | name.com         |
 | industrial.repair | resell    | $47.48    | —             | 62             | 25     | 10     | Spaceship, Inc.  |
 | one.repair        | premium   | $250      | $250          | 132            | 51     | 3      | name.com         |
-| zero.repair       | available | $9.99     | $46.99        | 112            | 53     | 4      | name.com         |
+| alpha.repair      | available | $9.99     | $46.99        | 90             | 53     | 5      | name.com         |
 | smart.repair      | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc      |
 | travel.repair     | premium   | $520      | $520          | 115            | 48     | 6      | namecheap        |
 | forge.repair      | available | $9.99     | $46.99        | 62             | 45     | 5      | name.com         |
 | good.repair       | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC     |
-| green.repair      | premium   | $42.90    | $42.90        | 108            | 46     | 5      | namecheap        |
+| green.repair      | premium   | $42.90    | $42.90        | 108            | 44     | 5      | namecheap        |
 | event.repair      | available | $47.48    | —             | 96             | 44     | 5      | namecheap        |
 | local.repair      | resell    | —         | —             | 102            | 54     | 5      | GoDaddy.com, LLC |
 | pop.repair        | premium   | $250      | $250          | 82             | 43     | 3      | name.com         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REPAIR One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REPAIR One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
