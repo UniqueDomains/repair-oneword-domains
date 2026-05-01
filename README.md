@@ -1,10 +1,10 @@
-# Available .REPAIR One-Word Domains (11,769)
+# Available .REPAIR One-Word Domains (12,217)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C769%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C217%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .repair one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,769 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,217 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,769 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,217 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/repair`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| matcha.repair        | available | $9.99     | —             | 86             | 39     | 6      | name.com          |
-| system.repair        | resell    | —         | —             | 76             | 37     | 6      | GoDaddy.com, LLC  |
-| jobs.repair          | premium   | $500      | —             | 79             | 42     | 4      | name.com          |
-| prompts.repair       | available | $9.99     | —             | 54             | 39     | 7      | name.com          |
-| soil.repair          | resell    | —         | —             | 68             | 21     | 4      | GoDaddy.com, LLC  |
-| William.repair       | premium   | $280      | $280          | 74             | 31     | 7      | namecheap         |
-| events.repair        | available | $9.99     | —             | 68             | 37     | 6      | name.com          |
-| computers.repair     | resell    | —         | —             | 68             | 19     | 9      | Sav.com, LLC - 38 |
-| pages.repair         | premium   | $250      | —             | 52             | 28     | 5      | name.com          |
-| stories.repair       | available | $9.99     | —             | 58             | 36     | 7      | name.com          |
-| bathroom.repair      | resell    | —         | —             | 80             | 15     | 8      | GoDaddy.com, LLC  |
-| Keith.repair         | premium   | $46.20    | $46.20        | 66             | 25     | 5      | namecheap         |
-| tokens.repair        | available | $9.99     | —             | 51             | 36     | 6      | name.com          |
-| bicycles.repair      | resell    | —         | —             | 68             | 9      | 8      | Key-Systems, LLC  |
-| hills.repair         | premium   | $123.75   | —             | 65             | 20     | 5      | name.com          |
-| aliens.repair        | available | $9.99     | —             | 56             | 35     | 6      | name.com          |
-| LongBeach.repair     | premium   | $46.20    | $46.20        | 62             | 11     | 10     | namecheap         |
-| spectra.repair       | available | $9.99     | —             | 62             | 34     | 7      | name.com          |
-| VirginiaBeach.repair | premium   | $138.60   | $138.60       | 58             | 9      | 14     | namecheap         |
-| etc.repair           | available | $9.99     | —             | 58             | 34     | 3      | name.com          |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| matcha.repair    | available | $9.99     | —             | 86             | 39     | 6      | name.com          |
+| system.repair    | resell    | —         | —             | 76             | 37     | 6      | GoDaddy.com, LLC  |
+| jobs.repair      | premium   | $500      | —             | 79             | 42     | 4      | name.com          |
+| events.repair    | available | $9.99     | —             | 68             | 37     | 6      | name.com          |
+| soil.repair      | resell    | —         | —             | 68             | 24     | 4      | GoDaddy.com, LLC  |
+| William.repair   | premium   | $280      | $280          | 74             | 31     | 7      | namecheap         |
+| stories.repair   | available | $9.99     | —             | 58             | 36     | 7      | name.com          |
+| computers.repair | resell    | —         | —             | 68             | 19     | 9      | Sav.com, LLC - 38 |
+| Keith.repair     | premium   | $46.20    | $46.20        | 66             | 25     | 5      | namecheap         |
+| tokens.repair    | available | $9.99     | —             | 51             | 36     | 6      | name.com          |
+| bathroom.repair  | resell    | —         | —             | 80             | 15     | 8      | GoDaddy.com, LLC  |
+| hills.repair     | premium   | $123.75   | —             | 65             | 20     | 5      | name.com          |
+| spectra.repair   | available | $9.99     | —             | 62             | 34     | 7      | name.com          |
+| bicycles.repair  | resell    | —         | —             | 68             | 9      | 8      | Key-Systems, LLC  |
+| etc.repair       | available | $9.99     | —             | 58             | 34     | 3      | name.com          |
+| Cats.repair      | available | $47.48    | —             | 59             | 33     | 4      | namecheap         |
+| letsgo.repair    | available | $9.99     | —             | 57             | 31     | 7      | name.com          |
+| maps.repair      | available | $9.99     | —             | 56             | 31     | 4      | name.com          |
+| slots.repair     | available | $9.99     | —             | 49             | 31     | 5      | name.com          |
+| rewards.repair   | available | $9.99     | —             | 62             | 30     | 7      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,769 live domains                              |
+| 1,000-row public sample | 12,217 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REPAIR One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REPAIR One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
