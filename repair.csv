@@ -943,7 +943,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 53b55445-e216-4307-a48e-1d8b89c5b0c1,keepin.repair,available,9.99,,72,6,7,name.com,,
 53fa54b1-e5b9-45ae-947c-7ee82569c43e,webs.repair,available,9.99,,56,21,4,name.com,,
 5433be89-8d9e-4521-a1dc-1c3ad3fe8938,videogames.repair,available,9.99,,66,18,11,name.com,,
-543402fe-9a1e-42e4-b904-e0f7cdd8ab06,system.repair,resell,,,76,37,6,"GoDaddy.com, LLC",02/04/2014 16:00,02/04/2027 16:00
+543402fe-9a1e-42e4-b904-e0f7cdd8ab06,system.repair,resell,,,76,39,6,"GoDaddy.com, LLC",02/04/2014 16:00,02/04/2027 16:00
 54401515-e949-454e-aba6-ae2ce9cd7bd9,products.repair,available,9.99,,60,23,8,name.com,,
 5451158b-49ec-423a-bd92-346537282e65,dropabombshell.repair,available,9.99,,58,0,16,name.com,,
 54686912-5f59-40d2-b3b9-2a2799628925,bathroom.repair,resell,,,80,15,8,"GoDaddy.com, LLC",30/03/2014 16:28,30/03/2027 16:28
