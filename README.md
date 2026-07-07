@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .repair one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,225 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,225 domains · **Median ask:** $14.06 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,225 domains · **Median ask:** $14.00 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/repair`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/repair`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .REPAIR one-word domai
 
 ### Files
 
-- `repair.csv` — public CSV extract (1,000 rows)
-- `repair.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `repair.csv`, public CSV extract (1,000 rows)
+- `repair.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| found.repair        | available | $9.99     | —             | 92             | 47     | 5      | name.com               |
-| beyond.repair       | resell    | —         | —             | 87             | 49     | 6      | Name SRS AB            |
-| fire.repair         | premium   | $242      | $242          | 80             | 74     | 4      | namesilo               |
-| verify.repair       | available | $9.99     | —             | 80             | 42     | 6      | name.com               |
-| intelligence.repair | resell    | —         | —             | 80             | 39     | 12     | Sav.com, LLC - 7       |
-| best.repair         | premium   | $500      | —             | 82             | 55     | 4      | name.com               |
-| action.repair       | available | $9.99     | —             | 128            | 40     | 6      | name.com               |
-| pool.repair         | resell    | —         | —             | 66             | 39     | 4      | Go France Domains, LLC |
-| sec.repair          | premium   | $242      | $242          | 60             | 37     | 3      | namesilo               |
-| culture.repair      | available | $9.99     | —             | 98             | 40     | 7      | name.com               |
-| scan.repair         | resell    | —         | —             | 90             | 38     | 4      | Porkbun LLC            |
-| sip.repair          | premium   | $118.80   | $118.80       | 62             | 32     | 3      | namesilo               |
-| eternal.repair      | available | $9.99     | $46.99        | 92             | 40     | 7      | name.com               |
-| machine.repair      | resell    | —         | —             | 90             | 37     | 7      | Spaceship, Inc.        |
-| monitor.repair      | premium   | $500      | —             | 64             | 31     | 7      | name.com               |
-| Phil.repair         | available | $9.99     | —             | 78             | 40     | 4      | name.com               |
-| call.repair         | resell    | —         | —             | 80             | 37     | 4      | Dynadot Inc            |
-| gun.repair          | premium   | $242      | $242          | 56             | 31     | 3      | namesilo               |
-| Flowers.repair      | available | $9.99     | —             | 74             | 40     | 7      | name.com               |
-| legend.repair       | resell    | —         | —             | 72             | 33     | 6      | GoDaddy.com, LLC       |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| but.repair   | available | $9.99     | —             | high           | low    | 3      | name.com               |
+| rep.repair   | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.        |
+| gun.repair   | premium   | $242      | $242          | medium         | low    | 3      | namesilo               |
+| cry.repair   | available | $9.99     | —             | high           | low    | 3      | name.com               |
+| call.repair  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc            |
+| sec.repair   | premium   | $242      | $242          | medium         | low    | 3      | namesilo               |
+| eat.repair   | available | $9.99     | —             | high           | low    | 3      | name.com               |
+| cell.repair  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc            |
+| sip.repair   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo               |
+| fee.repair   | available | $9.99     | —             | high           | low    | 3      | name.com               |
+| head.repair  | resell    | —         | —             | high           | low    | 4      | InterNetX GmbH         |
+| best.repair  | premium   | $500      | —             | high           | medium | 4      | name.com               |
+| jan.repair   | available | $9.99     | —             | high           | low    | 3      | name.com               |
+| pool.repair  | resell    | —         | —             | medium         | low    | 4      | Go France Domains, LLC |
+| fire.repair  | premium   | $242      | $242          | high           | high   | 4      | namesilo               |
+| lag.repair   | available | $9.99     | —             | medium         | low    | 3      | name.com               |
+| ring.repair  | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC       |
+| fence.repair | premium   | $242      | $242          | high           | low    | 5      | namesilo               |
+| lan.repair   | available | $9.99     | —             | medium         | low    | 3      | name.com               |
+| scan.repair  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .repair extension. The set includes concrete words, abstract words, and longer dictionary terms such as second.repair, clay.repair, idea.repair, own.repair, biological.repair, and teamwork.repair. When comparing these domains, focus on whether the word makes immediate sense with .repair, how easy it is to say and spell, and whether the pairing feels credible for a repair business or service. Shorter, clearer words usually read faster, but strong semantic fit matters more than novelty. If two names are similarly priced, the better choice is usually the one with cleaner meaning, lower ambiguity, and less chance of confusion with established brands.
+This list contains 12,225 available one-word and short-phrase .repair domain names, with a median asking price near $14. The selection spans everyday service and repair themes—examples include dogwalking.repair, bedframe.repair, and primarycare.repair—giving both investors and founders a low-cost entry point into a niche, service-oriented extension. When comparing these domains, weigh asking price against renewal cost, check brandability and spelling ease, and confirm the name fits your target market before committing.
 
-- Prefer words that pair naturally with .repair
-- Short, clear names are easier to remember
-- Check whether the term feels commercial or abstract
-- Avoid words that may invite brand confusion
+- 12,225 one-word .repair domain names in this set
+- Median asking price near $14 across the list
+- Names span home, personal, and business repair themes
+- Availability and pricing updated daily
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REPAIR One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REPAIR One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
