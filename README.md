@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .repair one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,110 domains · **Median ask:** $9.60 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/repair`
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | head.repair  | resell    | —         | —             | high           | low    | 4      | InterNetX GmbH         |
 | fire.repair  | premium   | $242      | $242          | high           | high   | 4      | namesilo               |
 | fee.repair   | available | $9.99     | —             | high           | low    | 3      | name.com               |
-| pool.repair  | resell    | —         | —             | medium         | low    | 4      | Go France Domains, LLC |
+| mail.repair  | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC           |
 | fence.repair | premium   | $242      | $242          | high           | low    | 5      | namesilo               |
 | jan.repair   | available | $9.99     | —             | high           | low    | 3      | name.com               |
-| ring.repair  | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC       |
+| pool.repair  | resell    | —         | —             | medium         | low    | 4      | Go France Domains, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REPAIR One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REPAIR One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
