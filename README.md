@@ -1,10 +1,10 @@
-# Available .REPAIR One-Word Domains (29,605)
+# Available .REPAIR One-Word Domains (31,357)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C605%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C357%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .repair one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,605 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,357 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,605 domains · **Median ask:** $9.80 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 31,357 domains · **Median ask:** $9.95 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/repair`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,6 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | christmas.repair | available | $9.99     | —             | high           | low    | 9      | name.com        |
-| action.repair    | available | $9.99     | —             | high           | medium | 6      | name.com        |
 | abo.repair       | available | $5.98     | $47.48        | low            | low    | 3      | namecheap       |
 | bag.repair       | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
 | gun.repair       | premium   | $242      | $242          | medium         | low    | 3      | namesilo        |
@@ -77,13 +76,14 @@ print(df.head())
 | sip.repair       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
 | cry.repair       | available | $9.99     | —             | high           | low    | 3      | name.com        |
 | cell.repair      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
-| best.repair      | premium   | $500      | —             | high           | medium | 4      | name.com        |
+| best.repair      | premium   | $520      | $520          | medium         | low    | 4      | namecheap       |
 | eat.repair       | available | $9.99     | —             | high           | low    | 3      | name.com        |
 | head.repair      | resell    | —         | —             | high           | low    | 4      | InterNetX GmbH  |
 | fire.repair      | premium   | $242      | $242          | high           | high   | 4      | namesilo        |
 | fee.repair       | available | $9.99     | —             | high           | low    | 3      | name.com        |
 | mail.repair      | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC    |
 | fence.repair     | premium   | $242      | $242          | high           | low    | 5      | namesilo        |
+| jan.repair       | available | $9.99     | —             | high           | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,605 live domains                        |
+| 1,000-row public sample | 31,357 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REPAIR One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REPAIR One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
