@@ -1,10 +1,10 @@
-# Available .REPAIR One-Word Domains (22,645)
+# Available .REPAIR One-Word Domains (23,028)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C645%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C028%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .repair one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,645 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,028 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,645 domains · **Median ask:** $11.63 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 23,028 domains · **Median ask:** $11.70 · **High-demand under $2,500:** 3
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/repair`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| afl.repair     | available | $12.99    | $36.99        | high           | low    | 3      | namesilo                                                  |
-| rep.repair     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
-| roma.repair    | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                  |
-| atp.repair     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| tub.repair     | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| crane.repair   | premium   | $42.90    | $42.90        | high           | low    | 5      | namecheap                                                 |
-| bar.repair     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| shoes.repair   | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.                                           |
-| first.repair   | premium   | $512      | $512          | high           | medium | 5      | namesilo                                                  |
-| bro.repair     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| america.repair | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                               |
-| quinn.repair   | premium   | $42.90    | $42.90        | high           | low    | 5      | namecheap                                                 |
-| cot.repair     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| finance.repair | resell    | —         | —             | high           | medium | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| smith.repair   | premium   | $242      | $242          | high           | medium | 5      | namesilo                                                  |
-| dip.repair     | available | $12.99    | $36.99        | high           | low    | 3      | namesilo                                                  |
-| florida.repair | resell    | —         | —             | high           | medium | 7      | GoDaddy.com, LLC                                          |
-| brenda.repair  | premium   | $42.90    | $42.90        | medium         | low    | 6      | namecheap                                                 |
-| hen.repair     | available | $12.99    | $36.99        | high           | low    | 3      | namesilo                                                  |
-| speaker.repair | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| afl.repair        | available | $12.99    | $36.99        | high           | low    | 3      | namesilo                                                  |
+| rep.repair        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
+| roma.repair       | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                  |
+| atp.repair        | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| tub.repair        | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| crane.repair      | premium   | $42.90    | $42.90        | high           | low    | 5      | namecheap                                                 |
+| bar.repair        | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| shoes.repair      | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.                                           |
+| quinn.repair      | premium   | $42.90    | $42.90        | high           | low    | 5      | namecheap                                                 |
+| bro.repair        | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| america.repair    | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                               |
+| smith.repair      | premium   | $242      | $242          | high           | medium | 5      | namesilo                                                  |
+| cot.repair        | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| finance.repair    | resell    | —         | —             | high           | medium | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| brenda.repair     | premium   | $42.90    | $42.90        | medium         | low    | 6      | namecheap                                                 |
+| dip.repair        | available | $12.99    | $36.99        | high           | low    | 3      | namesilo                                                  |
+| florida.repair    | resell    | —         | —             | high           | medium | 7      | GoDaddy.com, LLC                                          |
+| garcia.repair     | premium   | $42.90    | $42.90        | high           | low    | 6      | namecheap                                                 |
+| hen.repair        | available | $12.99    | $36.99        | high           | low    | 3      | namesilo                                                  |
+| autonomous.repair | resell    | —         | —             | high           | medium | 10     | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,645 live domains                        |
+| 1,000-row public sample | 23,028 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
