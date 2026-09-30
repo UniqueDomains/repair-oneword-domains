@@ -1,12 +1,13 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 bb96b6df-cb96-4fbc-a8a3-a0d78e4c1bc1,relating.repair,available,9.99,,high,low,8,name.com,,,
-82de4a10-f114-473b-b05e-4b6c51a77408,mahan.repair,available,12.99,36.99,medium,low,5,namesilo,,,18/09/2026 06:45
+82de4a10-f114-473b-b05e-4b6c51a77408,mahan.repair,available,12.99,36.99,high,low,5,namesilo,,,18/09/2026 06:45
 920474a1-9879-47c6-92ef-24197b39b035,ramshackle.repair,available,5.98,47.48,high,low,10,namecheap,,,11/08/2026 05:22
 4f83179b-b7d9-42cb-8460-84b80a38b9a1,recent.repair,available,12.99,36.99,high,low,6,namesilo,,,27/09/2026 10:49
 ab90867b-37d2-4aa9-8b29-344f45541d06,ballade.repair,available,5.98,47.48,medium,low,7,namecheap,,,21/09/2026 22:41
 85d1cac5-a50a-4eab-881d-7d83bc885fe0,fishy.repair,available,5.98,47.48,high,low,5,namecheap,,,18/08/2026 05:32
 341dd6b3-ed63-489e-9bf2-7b9022218078,filmed.repair,available,5.98,47.48,high,low,6,namecheap,,,18/08/2026 04:25
 d2af11dc-f134-4efa-867a-109d5acd7c9c,braw.repair,available,5.98,47.48,medium,low,4,namecheap,,,11/08/2026 02:45
+82440272-f339-4d11-a116-a9cd08255103,lending.repair,available,12,,high,low,7,unstoppable,,,29/09/2026 07:28
 90e16a53-e314-43b0-9e33-caaa896f453d,sunless.repair,available,5.98,47.48,medium,low,7,namecheap,,,12/08/2026 12:31
 dc063c98-5666-4415-8eb0-d4d154e563a5,moneron.repair,available,5.98,47.48,medium,low,7,namecheap,,,25/08/2026 04:30
 490d306d-eaad-4c3c-933d-7fee451ba3b6,emma.repair,available,12.99,36.99,high,medium,4,namesilo,,,25/09/2026 12:33
@@ -21,10 +22,9 @@ aed7fdb1-5b50-418c-9023-0ba7adf39603,ornery.repair,available,5.98,47.48,medium,l
 2994d59e-761c-4e60-8ab9-075a36a3f2fe,hahaha.repair,available,9.99,,high,low,6,name.com,,,
 62018907-51d5-4c73-8ff8-8c9a5458befe,motional.repair,available,5.98,47.48,medium,low,8,namecheap,,,25/08/2026 07:22
 a9ab313e-3d57-4d2b-97e9-137fd6e7fda7,complaining.repair,available,5.38,29.18,high,low,11,spaceship,,,27/09/2026 17:47
-566383bb-3d3f-4039-a3e4-256cdb114ee6,sag.repair,available,9.99,,high,low,3,name.com,,,
+566383bb-3d3f-4039-a3e4-256cdb114ee6,sag.repair,available,12,,high,low,3,unstoppable,,,29/09/2026 16:55
 10b79a9d-f584-4cb0-9d11-21a4001f5ff5,autonomous.repair,resell,,,high,medium,10,Dynadot Inc,19/12/2024 19:02,19/12/2026 19:02,26/09/2026 04:09
 da9078aa-19c8-4d31-a0cd-6440e48d1fe3,policemen.repair,available,5.38,29.18,medium,low,9,spaceship,,,28/09/2026 18:03
-d8e4e7ae-ec83-4585-814f-73f7cb7bfb8d,church.repair,available,9.99,,high,low,6,name.com,,,
 7174dafe-0551-4ce3-8e8a-bbc500306c8e,jenna.repair,available,28.2,28.2,medium,low,5,cloudflare,,,29/09/2026 04:01
 0fd8e721-baef-45e3-bc40-0c25da3ff52d,washy.repair,available,5.98,47.48,medium,low,5,namecheap,,,10/08/2026 13:56
 c61fab45-7bba-4b4a-8d85-8869d33817c8,ssw.repair,available,12.99,36.99,high,low,3,namesilo,,,16/09/2026 05:21
@@ -32,9 +32,11 @@ c61fab45-7bba-4b4a-8d85-8869d33817c8,ssw.repair,available,12.99,36.99,high,low,3
 d2191715-63df-43f0-b689-a1328d79308c,arrest.repair,available,5.98,47.48,high,low,6,namecheap,,,20/08/2026 22:54
 a914b78c-634d-4ea0-a182-be746ee6442b,davey.repair,available,12.99,36.99,medium,low,5,namesilo,,,28/09/2026 07:55
 1b9a1c28-783b-4d84-890c-5dc51610f69b,anapest.repair,available,12.99,36.99,medium,low,7,namesilo,,,19/09/2026 02:04
+5af629a3-4900-4422-86f1-bb02321d9e7e,rick.repair,available,28.2,28.2,high,low,4,cloudflare,,,30/09/2026 01:11
 271cd28e-8609-4cb2-a56f-f3ce50d90a0d,bebop.repair,available,12.99,36.99,high,low,5,namesilo,,,22/09/2026 22:33
 eb97ab69-80a7-4a3d-a7c4-e48699eeabc2,gillette.repair,available,12.99,36.99,high,low,8,namesilo,,,28/09/2026 05:50
 bcfeefdb-132b-4c05-a8e4-8ca0775db76f,disconnected.repair,available,7.72,29.35,medium,low,12,porkbun,,,28/09/2026 21:24
+8829427f-2855-4fc0-8117-d2742de52530,carrots.repair,available,12.99,36.99,high,low,7,namesilo,,,30/09/2026 00:15
 839bbaa7-c605-43b2-bdfa-8755bf099ba9,multicolor.repair,available,5.98,47.48,high,low,10,namecheap,,,03/09/2026 10:35
 b425ffbd-72e1-45ed-bce5-8d3cda725637,colombian.repair,available,5.98,47.48,high,low,9,namecheap,,,12/08/2026 17:18
 2d6ea1eb-817b-47cd-926c-9ead7dd5d0c8,idiotic.repair,available,12.99,36.99,medium,low,7,namesilo,,,24/09/2026 01:17
@@ -51,9 +53,10 @@ b99f065c-d69a-467b-81ae-ed8b94ebb5aa,arbitrate.repair,available,5.98,47.48,high,
 50ccf96f-ebff-49ca-82a0-ddc0d24798c8,consist.repair,available,9.99,,high,low,7,name.com,,,
 b3f59446-99a2-4159-b782-6936c061228a,fiscally.repair,available,5.98,47.48,medium,low,8,namecheap,,,14/09/2026 18:37
 ff0cd2af-60d9-4cdc-a25c-5467e620ee9f,alto.repair,available,5.98,47.48,high,low,4,namecheap,,,
-801ffc6c-72d8-4c39-a185-5b87aa23a6e7,embrace.repair,available,9.99,,high,low,7,name.com,,,
+801ffc6c-72d8-4c39-a185-5b87aa23a6e7,embrace.repair,available,5.98,47.48,high,low,7,namecheap,,,29/09/2026 17:59
 d054baa7-6c5f-4b3c-83c9-209721603420,awards.repair,available,12,,medium,low,6,unstoppable,,,28/09/2026 08:41
 157ded78-7a8f-4bfc-802d-ca6f7a4334e8,huffish.repair,available,5.98,47.48,medium,low,7,namecheap,,,21/08/2026 14:38
+c0fd956b-2589-4571-8ac3-5982ad464b39,naples.repair,premium,118.8,118.8,medium,low,6,namesilo,,,29/09/2026 07:39
 ea238ec5-0c3c-4937-88fa-b8342b452a4d,azalea.repair,available,5.98,47.48,high,low,6,namecheap,,,21/09/2026 11:00
 39a9478d-0bb9-43d7-842b-0ed0c52292a8,retirement.repair,available,5.38,29.18,high,low,10,spaceship,,,29/09/2026 03:48
 c0c8052f-7c96-4943-be5f-e6ef72e25b64,wary.repair,available,5.98,47.48,medium,low,4,namecheap,,,22/08/2026 22:32
@@ -69,15 +72,17 @@ d16b4ce4-325c-48fd-a402-69f53ad31f9a,flame.repair,available,5.98,47.48,high,low,
 1e1c7525-ae45-4d24-bc06-a708a7f2d357,algae.repair,available,12.99,36.99,high,low,5,namesilo,,,18/09/2026 06:48
 10ea84ae-9475-44e2-858b-8e5872ea5150,accusive.repair,available,5.98,47.48,low,low,8,namecheap,,,
 d6b71999-3127-492d-83a3-5b72a591d075,newcomer.repair,available,5.98,47.48,high,low,8,namecheap,,,18/08/2026 07:31
-a9ece4c4-dec4-4e81-8b59-73f7eed450d3,israelite.repair,available,7.71,30.18,medium,low,9,dynadot,,,29/09/2026 01:21
+a9ece4c4-dec4-4e81-8b59-73f7eed450d3,israelite.repair,available,7.71,30.18,high,low,9,dynadot,,,29/09/2026 01:21
 7d1cec6a-7c71-4ea5-8214-d3d4861bc86e,delgado.repair,available,5.38,29.18,medium,low,7,spaceship,,,28/09/2026 17:40
+85128248-cc21-466e-b281-2294a8f66fa9,aitken.repair,available,12.99,36.99,medium,low,6,namesilo,,,29/09/2026 10:35
 338255b5-5ebe-4015-a409-b2148ad8c4d4,drowned.repair,available,28.2,28.2,medium,low,7,cloudflare,,,27/09/2026 22:47
+70265fd9-997b-4839-b904-10b416ed3d6a,strawberries.repair,available,12,,medium,low,12,unstoppable,,,29/09/2026 23:41
 2fa2617b-0753-4909-ad3e-61cc8849e7ab,delicacy.repair,available,13.99,46.99,high,low,8,name.com,,,13/08/2026 15:51
 2ca805de-5c04-4b52-a3a1-0d7454b0615e,affluent.repair,available,12.99,36.99,high,low,8,namesilo,,,21/09/2026 21:54
 a2675f84-45ad-4bbb-9910-89afce7232a8,merger.repair,available,5.98,47.48,high,low,6,namecheap,,,28/09/2026 20:49
-f46a2bf5-56e0-4fae-85bd-34a02d935b62,copland.repair,available,12.99,36.99,medium,low,7,namesilo,,,16/09/2026 13:32
+f46a2bf5-56e0-4fae-85bd-34a02d935b62,copland.repair,available,12.99,36.99,high,low,7,namesilo,,,16/09/2026 13:32
 c50b5746-8103-44d8-a559-a2d4eec0bad6,renee.repair,available,5.38,29.18,medium,low,5,spaceship,,,28/09/2026 21:55
-86554adc-abce-4195-b17a-cb4b6e536cb7,christly.repair,available,5.98,47.48,medium,low,8,namecheap,,,12/08/2026 07:21
+86554adc-abce-4195-b17a-cb4b6e536cb7,christly.repair,available,5.98,47.48,high,low,8,namecheap,,,12/08/2026 07:21
 41b5fe99-1643-4e1b-9669-8a6c7692d8c9,bonding.repair,available,5.38,29.18,high,low,7,spaceship,,,28/09/2026 09:11
 99ed88ba-57b7-4b8c-9487-9742ef8d9495,tangy.repair,available,5.98,47.48,high,low,5,namecheap,,,22/08/2026 23:32
 6cc7c3b8-dd82-4bc5-88bf-8be91eb3e663,learned.repair,available,5.98,47.48,high,low,7,namecheap,,,23/09/2026 19:31
@@ -88,8 +93,8 @@ eb5d7b7a-917d-4c71-9ffb-b153aad57521,airy.repair,available,5.98,47.48,high,low,4
 86c99433-08a0-4035-9ad9-47e9a9207d91,agreed.repair,available,12.99,36.99,high,low,6,namesilo,,,21/09/2026 23:21
 465b7bbf-805a-47b1-bd43-56eb22a9a861,espouse.repair,available,5.98,47.48,high,low,7,namecheap,,,13/09/2026 09:39
 a254fc53-2841-4595-abb4-edbfb49dd2fd,exams.repair,available,12.99,36.99,medium,low,5,namesilo,,,28/09/2026 23:32
-5767f753-45b4-4828-bc9f-bf743ab56e10,guinean.repair,available,5.98,47.48,medium,low,7,namecheap,,,20/08/2026 20:52
-2fee674e-8fc7-4c08-bf39-59b925882990,congruous.repair,available,5.98,47.48,medium,low,9,namecheap,,,12/08/2026 21:56
+5767f753-45b4-4828-bc9f-bf743ab56e10,guinean.repair,available,5.98,47.48,high,low,7,namecheap,,,20/08/2026 20:52
+2fee674e-8fc7-4c08-bf39-59b925882990,congruous.repair,available,5.98,47.48,high,low,9,namecheap,,,12/08/2026 21:56
 5ad0b879-81a2-4942-9167-94aeac0a3c8c,mack.repair,available,28.2,28.2,high,low,4,cloudflare,,,28/09/2026 02:18
 77834594-e29f-4987-bab1-6c3177322ae0,mogadishu.repair,available,12.99,36.99,medium,low,9,namesilo,,,24/09/2026 12:23
 632bbf52-a9bf-41ca-a2d8-4ad748ddd7e4,waterless.repair,available,5.98,47.48,medium,low,9,namecheap,,,06/08/2026 19:03
@@ -112,9 +117,11 @@ f76a35fc-e3aa-41b4-b2ce-b22ac4fe48a2,slip.repair,available,5.38,29.18,high,low,4
 f21da6d3-1b4c-4b9c-9588-0c2302dd19c7,boloney.repair,available,12.99,36.99,medium,low,7,namesilo,,,21/09/2026 23:45
 849d697f-09fb-4eb8-8935-dc0f125cfcb3,photography.repair,available,12.99,36.99,high,low,11,namesilo,,,28/09/2026 07:43
 77813a60-1586-4fa2-a06e-423839609f77,dance.repair,available,5.98,47.48,high,low,5,namecheap,,,24/09/2026 20:57
-0b5649a5-edf5-4be7-b2db-b12045f295b7,rutland.repair,available,12.99,36.99,medium,low,7,namesilo,,,27/09/2026 05:16
+0b5649a5-edf5-4be7-b2db-b12045f295b7,rutland.repair,available,12.99,36.99,high,low,7,namesilo,,,27/09/2026 05:16
 7fc4813a-da32-4b0b-9865-f7cb563445e5,blake.repair,available,12.99,36.99,high,low,5,namesilo,,,24/09/2026 03:45
+794cd35f-f986-4e38-bee1-a726f703ab46,golgi.repair,available,12,,high,low,5,unstoppable,,,30/09/2026 00:57
 630c76c3-8a38-40ba-95e7-bfda14d74d90,lawson.repair,available,12.99,36.99,high,low,6,namesilo,,,25/09/2026 12:31
+adbea29a-40a5-4c12-8399-e9e30b22b648,concludes.repair,available,5.98,47.48,medium,low,9,namecheap,,,29/09/2026 05:51
 cd6eda08-8b78-4fa3-b9d9-1d41a516402b,meddlesome.repair,available,5.98,47.48,medium,low,10,namecheap,,,11/08/2026 11:23
 a09b068e-ffac-42d4-994c-1e2956d65c8f,adiposity.repair,available,5.98,47.48,medium,low,9,namecheap,,,17/09/2026 08:19
 8dab73f7-582b-4d74-979c-9ec16e46fd60,beijing.repair,premium,128.7,128.7,high,low,7,namecheap,,,23/09/2026 04:10
@@ -130,12 +137,16 @@ fe21dd33-b6da-45e9-afca-7d4192eda68e,artfulness.repair,available,12.99,36.99,hig
 0be201a2-8beb-4a05-ac81-cf5f67c83ecf,smith.repair,premium,207.2,207.2,high,medium,5,spaceship,,,28/09/2026 18:16
 9d935e5d-4140-4e7c-b870-f38adc849a36,guards.repair,available,9.99,,high,low,6,name.com,,,
 348257bc-4c4a-4e3b-9950-81e40cca9b6a,brag.repair,available,12.99,36.99,high,low,4,namesilo,,,23/09/2026 00:49
-a43d046f-9966-41b1-9174-41841f5b6c9d,canny.repair,available,5.98,47.48,medium,low,5,namecheap,,,11/08/2026 13:23
+a43d046f-9966-41b1-9174-41841f5b6c9d,canny.repair,available,5.98,47.48,high,low,5,namecheap,,,11/08/2026 13:23
 f4933a39-c99f-4891-8b9e-ed519f7bc022,holyoke.repair,available,12.99,36.99,medium,low,7,namesilo,,,28/09/2026 08:11
+5f9aa012-658e-410c-986d-7477248756c6,geographical.repair,available,7.72,29.35,high,low,12,porkbun,,,29/09/2026 21:14
+70dd0830-fca0-4aeb-824b-2fa7982057a2,burgundy.repair,available,12.99,36.99,high,low,8,namesilo,,,29/09/2026 06:09
 2ed37e50-ef5b-4856-83c0-59c9a156dc04,springy.repair,available,5.98,47.48,high,low,7,namecheap,,,10/08/2026 21:49
 e20633d3-50ff-4fb3-8f2a-9a08e6036ba1,incidental.repair,available,5.98,47.48,high,low,10,namecheap,,,
 51494f14-3420-4634-8b35-0f4a57df705b,bar.repair,available,12.99,36.99,high,low,3,namesilo,,,29/09/2026 01:04
+56065275-d375-4958-8c7c-c7c2e9d6d4b5,asme.repair,available,12,,high,low,4,unstoppable,,,29/09/2026 21:46
 297d1cc2-d10f-42d0-84db-8880560f25e4,broadcast.repair,available,12.99,36.99,high,low,9,namesilo,,,28/09/2026 03:17
+5a399da7-32aa-439a-8778-b2992af41a5a,oppression.repair,available,12.99,36.99,medium,low,10,namesilo,,,29/09/2026 13:36
 64f4a849-1a42-4231-9fdd-9fbc1a8cd75a,helper.repair,available,12.99,36.99,high,low,6,namesilo,,,22/09/2026 09:58
 cbc326c7-84ee-4176-9f50-dcf16e97bd3f,anisoptera.repair,available,12.99,36.99,medium,low,10,namesilo,,,19/09/2026 09:34
 a8bd22f9-c2ca-415e-80ee-c131dd7a91e6,perks.repair,available,5.98,47.48,high,low,5,namecheap,,,20/09/2026 14:58
@@ -149,27 +160,29 @@ c501c7ee-adfa-443f-b420-69df6b015894,ingram.repair,available,12.99,36.99,medium,
 db96dc5c-5afb-41f6-8732-4a9273d5b209,effortless.repair,available,5.98,47.48,high,low,10,namecheap,,,15/08/2026 16:21
 450354db-320c-487c-adf5-8158b2ade274,jacqueline.repair,premium,99.5,,high,low,10,unstoppable,,,29/09/2026 03:58
 546e6793-c367-49ac-bbab-14ea4916e27a,jeer.repair,available,5.98,47.48,medium,low,4,namecheap,,,22/08/2026 12:37
+6c447948-c74e-4616-b751-3844cdaef1ca,steamer.repair,available,7.71,30.18,high,low,7,dynadot,,,29/09/2026 07:29
 219dfd48-3c9b-44a4-9346-676a4ab4f56d,goddess.repair,available,12.99,36.99,high,low,7,namesilo,,,27/09/2026 13:50
+efb5d485-4f24-4905-b155-dc4d47824b6e,realism.repair,available,12,,high,low,7,unstoppable,,,29/09/2026 13:31
 5d623483-1ffd-4134-8c59-6897553fd9af,deeply.repair,available,5.98,47.48,medium,low,6,namecheap,,,13/08/2026 22:30
+9f6c8cd6-f5fb-4009-a2d6-7c83cc716a8f,commodore.repair,available,12,,high,low,9,unstoppable,,,29/09/2026 11:55
 6525c612-25fd-45ec-8154-fdc52afce938,tropical.repair,available,5.98,47.48,high,low,8,namecheap,,,11/09/2026 20:24
 0a1f3fd6-d0d9-40f0-b300-a45ce450560a,strike.repair,available,5.98,47.48,high,low,6,namecheap,,,25/08/2026 00:52
 2a10b87f-abfe-4a5c-9d40-e5f8f6add006,absurdly.repair,available,5.98,47.48,medium,low,8,namecheap,,,13/09/2026 16:46
 5e1232ee-a2ef-4205-99d2-1a47f9d02be5,nighttime.repair,available,9.99,,high,low,9,name.com,,,
 a62ffd12-191f-4cd7-b148-4af3e5a6de27,nonstick.repair,available,5.98,47.48,medium,low,8,namecheap,,,03/09/2026 20:45
-641a93d9-598e-4f49-87b3-ba1a7d3f9013,gusto.repair,available,9.99,,high,low,5,name.com,,,
+641a93d9-598e-4f49-87b3-ba1a7d3f9013,gusto.repair,available,28.2,28.2,high,low,5,cloudflare,,,29/09/2026 21:46
 9f4c99e4-f9d4-47dd-b64d-f2c6c3afa6ca,crane.repair,premium,42.9,42.9,high,low,5,namecheap,,,24/09/2026 19:02
 df763a88-db2f-4ec3-8e9e-1351bcc2251b,vocally.repair,available,12.99,36.99,medium,low,7,namesilo,,,16/09/2026 11:07
 9dd508ec-1aa9-404e-88b9-01901159aacc,hovers.repair,available,12.99,36.99,medium,low,6,namesilo,,,21/09/2026 10:26
-6c1103e9-f7d8-459e-9055-30c99d3d2bcb,clinics.repair,available,12.99,36.99,medium,low,7,namesilo,,,20/09/2026 12:34
-3d2214b9-03de-4216-98c4-8dd0bc07f57b,testicle.repair,available,12.99,36.99,medium,low,8,namesilo,,,21/09/2026 22:59
+6c1103e9-f7d8-459e-9055-30c99d3d2bcb,clinics.repair,available,12.99,36.99,high,low,7,namesilo,,,20/09/2026 12:34
+3d2214b9-03de-4216-98c4-8dd0bc07f57b,testicle.repair,available,12.99,36.99,high,low,8,namesilo,,,21/09/2026 22:59
 6240794e-1dff-4778-961b-2119d6ef6801,next.repair,available,,,high,high,4,,,,
-315ad1a0-efdd-480e-849e-8ace19d0f972,columbia.repair,available,,,high,medium,8,,,,
 92d58ec9-0c8a-4377-9b64-040cdc8d2dfe,pole.repair,available,5.98,47.48,high,low,4,namecheap,,,24/09/2026 13:25
 2f1d429a-b22a-4b63-9a2b-e45946f58e16,steerable.repair,available,5.98,47.48,medium,low,9,namecheap,,,14/08/2026 09:00
 2a278149-6c6d-4e2d-ab6b-25a28f3f65d3,commercially.repair,available,9.99,,medium,low,12,name.com,,,
 94371015-36c2-4ee5-bc81-54aec626cc3a,oriented.repair,available,12.99,36.99,high,low,8,namesilo,,,26/09/2026 00:29
 aef35f2b-1ddb-4fa9-a0dd-4285fcd31f8b,lunisolar.repair,available,5.98,47.48,medium,low,9,namecheap,,,24/08/2026 11:31
-fd6aea8a-8458-4feb-9d9c-8b2527eaef10,johnstone.repair,available,7.72,29.35,medium,low,9,porkbun,,,27/09/2026 23:26
+fd6aea8a-8458-4feb-9d9c-8b2527eaef10,johnstone.repair,available,7.72,29.35,high,low,9,porkbun,,,27/09/2026 23:26
 0181b5b1-cbca-4e96-ba45-9789a84a8a2a,ferries.repair,available,5.98,47.48,medium,low,7,namecheap,,,20/09/2026 07:40
 258ed6dd-bec0-4b51-813b-d4ec763e51a9,asanga.repair,available,12.99,36.99,medium,low,6,namesilo,,,20/09/2026 12:49
 1385cda0-58ad-4cf0-8092-5a5210741ac6,unerasable.repair,available,5.98,47.48,medium,low,10,namecheap,,,22/08/2026 02:39
@@ -180,15 +193,16 @@ a4fb3b0e-73d6-44c4-b9f1-3583d0fb271c,dixie.repair,available,5.38,29.18,medium,lo
 588b8c78-24b0-4b43-9cd8-2f60c7c36b54,vocalic.repair,available,5.98,47.48,medium,low,7,namecheap,,,13/09/2026 06:26
 8aa8c48a-0ffb-44ed-b1f9-e4d2f03770f5,sandwiches.repair,available,7.72,29.35,medium,low,10,porkbun,,,28/09/2026 13:26
 d3ef7924-46d6-4db5-866c-0c3556ffc9bc,downwind.repair,available,5.98,47.48,medium,low,8,namecheap,,,14/08/2026 18:03
-45027e13-8683-4c1f-87b6-e617dee7ea20,trier.repair,available,12.99,36.99,medium,low,5,namesilo,,,21/09/2026 01:21
+45027e13-8683-4c1f-87b6-e617dee7ea20,trier.repair,available,12.99,36.99,high,low,5,namesilo,,,21/09/2026 01:21
 aea18988-d897-4e82-bca0-9b9a8639faee,vitally.repair,available,12.99,36.99,medium,low,7,namesilo,,,16/09/2026 11:05
-61631349-b361-4e93-a0f2-4aba92db46a4,mill.repair,available,9.99,,high,low,4,name.com,,,
+61631349-b361-4e93-a0f2-4aba92db46a4,mill.repair,available,28.2,28.2,high,low,4,cloudflare,,,29/09/2026 18:53
 aa2d7fbb-5ceb-4275-b397-4cccaf7a5fdf,ingredient.repair,available,12.99,36.99,high,low,10,namesilo,,,24/09/2026 16:51
+7bf1aab7-9e12-48ca-be07-ba4193848b6b,overheard.repair,available,12.99,36.99,medium,low,9,namesilo,,,29/09/2026 22:55
 cd16e4a8-5386-414d-a12a-5ec94725f8f0,understanding.repair,available,12.99,36.99,high,low,13,namesilo,,,25/09/2026 11:47
 f0d010fa-5c88-4df7-b573-f903b04a59de,strung.repair,available,5.98,47.48,medium,low,6,namecheap,,,10/09/2026 22:54
 a6888336-6931-4cb0-9381-6f9525e3b616,tickle.repair,available,5.98,47.48,high,low,6,namecheap,,,11/09/2026 15:31
 bdfb98be-a190-4ca2-99d5-09dc4fd6cff2,produced.repair,available,12.99,36.99,medium,low,8,namesilo,,,19/09/2026 16:32
-c2e48af0-28e5-4fa7-8af1-901188f6d47f,ivanov.repair,available,5.38,29.18,medium,low,6,spaceship,,,29/09/2026 01:22
+c2e48af0-28e5-4fa7-8af1-901188f6d47f,ivanov.repair,available,5.38,29.18,high,low,6,spaceship,,,29/09/2026 01:22
 ba5edcf9-ad36-4d31-ba42-626fa346fede,gripping.repair,available,12.99,36.99,high,low,8,namesilo,,,21/09/2026 15:05
 a5ebf018-0b6c-49ea-8c47-47137c151c66,dogsledding.repair,available,12.99,36.99,medium,low,11,namesilo,,,20/09/2026 01:02
 3c7cc6a8-1b27-4a71-85be-c7b3b58e5888,polyhedral.repair,available,5.98,47.48,medium,low,10,namecheap,,,08/09/2026 23:24
@@ -205,18 +219,20 @@ e90231ef-7073-4c70-8cf0-88aa53fb4067,concession.repair,available,12.99,36.99,hig
 5b0de844-4485-4cea-b68f-ee177779974b,memories.repair,available,12.99,36.99,medium,low,8,namesilo,,,25/09/2026 17:07
 309a2b07-bcd6-42bc-b309-6f93b7b8f0fd,bust.repair,available,12.99,36.99,high,low,4,namesilo,,,23/09/2026 09:51
 05289089-e9df-4ea4-a0d9-544cfa29c3e9,treatments.repair,available,5.38,29.18,medium,low,10,spaceship,,,29/09/2026 04:46
-f060f1c1-efda-4bbd-8834-64415db741f1,criticism.repair,available,9.99,,high,low,9,name.com,,,
+f060f1c1-efda-4bbd-8834-64415db741f1,criticism.repair,available,5.38,29.18,high,low,9,spaceship,,,29/09/2026 12:07
+3ca80664-6771-438f-b7bc-db3236301ef1,spartanburg.repair,available,5.38,29.18,high,low,11,spaceship,,,29/09/2026 22:45
 f0f1374e-e62e-415a-a37b-0b2872c4c4f8,believable.repair,available,5.98,47.48,high,low,10,namecheap,,,09/08/2026 13:01
 037e7a53-345e-48a3-8fc8-3eb1a2c84542,wares.repair,available,5.98,47.48,medium,low,5,namecheap,,,28/09/2026 04:14
 cdb956dc-f17a-47a6-b2ec-ccb931fdb725,worker.repair,available,12.99,36.99,high,low,6,namesilo,,,27/09/2026 07:18
 413544b2-b831-4d36-9790-937d487d5d56,gorki.repair,available,5.98,47.48,medium,low,5,namecheap,,,18/09/2026 05:08
 dae0005f-7d58-458c-b7aa-4053be28009f,apposite.repair,available,5.98,47.48,medium,low,8,namecheap,,,06/08/2026 07:53
+c5fdc0d6-08a1-4557-ab9a-bfa8a87a4a66,dodson.repair,available,12,,medium,low,6,unstoppable,,,29/09/2026 22:21
 d652e7b6-e42e-4fec-b7dd-b9cfefa60818,honored.repair,available,5.98,47.48,high,low,7,namecheap,,,17/08/2026 13:25
 8ecedbf0-e54e-4209-87f3-f3af5a1eb464,pleb.repair,available,5.98,47.48,medium,low,4,namecheap,,,08/09/2026 21:04
 7f8d20e8-3cf2-4dfe-8fda-8c282ee6a86e,overwhelming.repair,available,12,,high,low,12,unstoppable,,,28/09/2026 07:20
 ebd6c4c9-4a45-4052-8fc8-a492fab238a7,documents.repair,available,9.99,,high,low,9,name.com,,,
 fd119a2d-a2a0-4f1f-8fd7-6810ccd6e891,eviction.repair,available,12.99,36.99,high,low,8,namesilo,,,24/09/2026 17:35
-1aab148e-bd9d-4b41-b844-89a926201391,geeks.repair,available,5.98,47.48,medium,low,5,namecheap,,,17/09/2026 16:02
+1aab148e-bd9d-4b41-b844-89a926201391,geeks.repair,available,5.98,47.48,high,low,5,namecheap,,,17/09/2026 16:02
 634169c7-44e5-40cb-99d7-7e81d9f9144b,gunrunner.repair,available,12.99,36.99,medium,low,9,namesilo,,,20/09/2026 07:45
 a21e405d-c6c2-41fe-bcb3-c5c4c35c81b9,malformed.repair,available,5.98,47.48,medium,low,9,namecheap,,,13/08/2026 23:43
 c87a5fa8-ac72-458d-8249-a1cab0dbc9aa,sounding.repair,available,12.99,36.99,high,low,8,namesilo,,,25/09/2026 14:20
@@ -231,7 +247,7 @@ c730fe0e-6eaf-4d82-8355-90cbcea7fcf3,competing.repair,available,9.99,,high,low,9
 764d6d5b-b276-4d3f-b128-143108f48cb1,zoic.repair,available,5.98,47.48,medium,low,4,namecheap,,,13/09/2026 15:25
 794169e3-6b4e-4d8a-948d-d04a6b517ff1,translated.repair,available,28.2,28.2,medium,low,10,cloudflare,,,29/09/2026 04:42
 44009c67-abd8-4e5f-8191-652c822c737d,hazardous.repair,available,5.98,47.48,medium,low,9,namecheap,,,21/08/2026 01:42
-0cc61d1b-7f1d-407a-b521-d72bdbc54315,kigali.repair,available,12.99,36.99,medium,low,6,namesilo,,,24/09/2026 12:21
+0cc61d1b-7f1d-407a-b521-d72bdbc54315,kigali.repair,available,12.99,36.99,high,low,6,namesilo,,,24/09/2026 12:21
 89387d38-dce1-42fd-8932-7407b37f3daa,savings.repair,available,12.99,36.99,high,low,7,namesilo,,,28/09/2026 13:08
 8d73ace0-8781-4933-bf8d-bda2f48c20fa,roma.repair,premium,242,242,high,low,4,namesilo,,,10/08/2026 17:30
 ca4e97ca-007a-487d-8245-f2def4e7f494,forces.repair,available,12.99,36.99,high,low,6,namesilo,,,16/09/2026 15:45
@@ -243,6 +259,7 @@ fee9a176-edc6-4693-8e87-eb519f84359a,transeunt.repair,available,5.98,47.48,mediu
 e54f32a4-9970-46e0-9390-1d03a92f26a1,quartet.repair,available,5.98,47.48,high,low,7,namecheap,,,
 56cf97b1-871f-49d1-a089-fd2e39105b26,advances.repair,available,5.38,29.18,medium,low,8,spaceship,,,28/09/2026 23:36
 186a3735-cfd0-416f-926e-28a41da6e99e,kyushu.repair,available,12,,medium,low,6,unstoppable,,,29/09/2026 01:31
+3d27d828-23e5-44bd-8c73-2c2de0fc6844,refers.repair,available,5.98,47.48,medium,low,6,namecheap,,,29/09/2026 10:13
 6aa5a6cb-2b5f-4f75-98e1-843bafbcc94a,alone.repair,available,12.99,36.99,high,low,5,namesilo,,,22/09/2026 01:57
 9c7a1628-c5af-4eea-95ae-59b5ecfce7f2,hull.repair,available,9.99,61.99,high,low,4,godaddy,,,28/09/2026 01:42
 736fc391-9099-4d5c-a92e-a242d8b8d87e,motorcoach.repair,available,12.99,36.99,medium,low,10,namesilo,,,21/09/2026 06:31
@@ -261,19 +278,21 @@ b487c853-8084-44a5-b457-c71208245391,content.repair,available,12.99,36.99,high,m
 918b6405-a421-4ca9-94ad-48176d3a42c6,tunguska.repair,available,12.99,36.99,medium,low,8,namesilo,,,19/09/2026 05:45
 bb921904-be35-42aa-a1e5-e4c93c9055e7,silky.repair,available,5.98,47.48,high,low,5,namecheap,,,09/09/2026 21:45
 517422a8-70f3-496f-abef-5c3636bb75a2,boundary.repair,available,5.98,47.48,high,low,8,namecheap,,,23/09/2026 01:32
-21ca9a53-85eb-493c-8efe-c12ac954c01e,legged.repair,available,5.98,47.48,medium,low,6,namecheap,,,22/08/2026 22:55
+21ca9a53-85eb-493c-8efe-c12ac954c01e,legged.repair,available,5.98,47.48,high,low,6,namecheap,,,22/08/2026 22:55
 f4a7d903-67eb-42fd-892a-e78b08d2eac5,pockets.repair,available,12.99,36.99,medium,low,7,namesilo,,,27/09/2026 02:53
 252d7a2d-0c3b-434b-8504-e09fd8d25706,whiny.repair,available,5.98,47.48,medium,low,5,namecheap,,,09/09/2026 08:37
 b60429e5-f11c-4ffe-b287-9177e55d7fb2,hanker.repair,available,5.98,47.48,medium,low,6,namecheap,,,24/08/2026 08:57
 35dc53a7-f6aa-4086-b80a-4d3227c27aec,hydrated.repair,available,5.98,47.48,high,low,8,namecheap,,,21/08/2026 16:16
 bb7a82f0-6669-441e-ba79-6be07dfe5e7f,bibos.repair,available,13.99,46.99,low,low,5,name.com,,,23/09/2026 13:02
+d99948b0-cfba-4dcd-a7ab-f0a608458f15,trait.repair,available,5.38,29.18,high,low,5,spaceship,,,29/09/2026 08:15
 4c271d49-f1c7-4601-b971-0221bb393f81,hold.repair,available,5.98,47.48,high,low,4,namecheap,,,24/09/2026 23:26
 3aef4b24-0131-4a66-89fe-8511cdd8c30f,grouch.repair,available,5.98,47.48,medium,low,6,namecheap,,,13/08/2026 04:56
-f406a489-1507-467a-a667-6c632dd69c9f,irritation.repair,available,5.98,47.48,medium,low,10,namecheap,,,
+f406a489-1507-467a-a667-6c632dd69c9f,irritation.repair,available,5.98,47.48,high,low,10,namecheap,,,
 0e16f4dc-1b34-4c95-8cca-3673a6a6fa5a,french.repair,available,5.98,47.48,high,low,6,namecheap,,,24/09/2026 21:41
 2d7a1461-6bee-40c2-b21c-b082bafbbed1,fossilized.repair,available,5.98,47.48,medium,low,10,namecheap,,,18/08/2026 13:12
-ffec51d2-88c9-4de1-bb1c-fbcc6104d2bb,candidacy.repair,available,9.99,,high,low,9,name.com,,,
+ffec51d2-88c9-4de1-bb1c-fbcc6104d2bb,candidacy.repair,available,7.71,30.18,high,low,9,dynadot,,,29/09/2026 06:17
 6be57dda-7047-45fa-8921-b8247264e067,recessions.repair,available,12.99,36.99,low,low,10,namesilo,,,21/09/2026 06:29
+d13b8e26-1bc7-4d83-ac60-3134c47585ee,cbi.repair,available,5.38,29.18,high,low,3,spaceship,,,29/09/2026 15:19
 15743c9e-507d-4fc3-a05f-22347d0eb48f,ariocarpus.repair,available,5.98,47.48,medium,low,10,namecheap,,,20/09/2026 05:32
 eca84554-603d-4a5c-9d70-b4b760092384,lipitor.repair,available,12.99,36.99,high,low,7,namesilo,,,21/09/2026 00:35
 b7d4453a-588e-4e0e-9925-9162b59aabf1,bringing.repair,available,28.2,28.2,high,low,8,cloudflare,,,29/09/2026 04:22
@@ -285,8 +304,9 @@ bed2d2c3-a79c-49be-838b-f2fdc83b6ec6,oleaceous.repair,available,5.98,47.48,mediu
 e8c4472f-4072-4e85-9d62-4c0cd6803c65,quartette.repair,available,5.98,47.48,medium,low,9,namecheap,,,09/09/2026 07:26
 50f64837-7abd-48d7-9d4c-0887816192e9,externally.repair,available,5.98,47.48,medium,low,10,namecheap,,,14/09/2026 17:11
 115c98d3-81ce-4c3b-84d4-4e138af3d9f3,footed.repair,available,5.98,47.48,medium,low,6,namecheap,,,18/08/2026 10:43
-6cabf9ae-e59c-450b-90ec-ed610aec2c19,nonsmoking.repair,available,5.98,47.48,medium,low,11,namecheap,,,16/09/2026 20:03
-4f0a77a7-8992-4575-a169-e7ff24b24983,boneless.repair,available,5.98,47.48,medium,low,8,namecheap,,,10/08/2026 18:38
+6cabf9ae-e59c-450b-90ec-ed610aec2c19,nonsmoking.repair,available,5.98,47.48,high,low,11,namecheap,,,16/09/2026 20:03
+02614ac9-29c4-409c-939c-18d8ada883fa,rift.repair,available,9.99,61.99,high,low,4,godaddy,,,30/09/2026 01:35
+4f0a77a7-8992-4575-a169-e7ff24b24983,boneless.repair,available,5.98,47.48,high,low,8,namecheap,,,10/08/2026 18:38
 9586b5d0-603e-4372-a685-58ad7bf4bff9,tubes.repair,available,12.99,36.99,medium,low,5,namesilo,,,20/09/2026 00:50
 40d2cece-9fae-48a0-ad0e-72647a6f5060,floodlit.repair,available,5.98,47.48,medium,low,8,namecheap,,,18/08/2026 08:47
 49351969-5707-493a-99ea-ff00239807aa,hygiene.repair,available,12,,high,low,7,unstoppable,,,29/09/2026 01:19
@@ -301,6 +321,7 @@ bb397161-5e9a-4658-836a-44cedba95e2a,pitahaya.repair,available,12.99,36.99,mediu
 8099e339-b57c-45ae-bd29-80ca0b0d4443,empowering.repair,available,9.99,,high,low,10,name.com,,,
 803a2545-5e8a-48c4-9776-8e40a3a561cc,incapable.repair,available,5.98,47.48,medium,low,9,namecheap,,,22/08/2026 00:49
 834b92d7-fd54-4772-ad5c-22ad1235e548,mason.repair,available,12.99,36.99,high,low,5,namesilo,,,16/09/2026 12:59
+82e74193-2dba-4ffa-bbe2-e1e9bb79ee98,mena.repair,available,5.38,29.18,high,low,4,spaceship,,,29/09/2026 22:04
 4e326367-da5f-4917-9bbf-b789f29b15b1,round.repair,available,5.98,47.48,high,low,5,namecheap,,,09/08/2026 05:09
 fdcfb8b0-ee06-4123-9d27-fcf50fd59397,negotiating.repair,available,5.38,29.18,medium,low,11,spaceship,,,29/09/2026 00:06
 10a9d04e-5112-4e74-bb2d-39b9db80f95f,beaked.repair,available,5.98,47.48,medium,low,6,namecheap,,,09/08/2026 03:50
@@ -315,10 +336,11 @@ cb8dc5e9-3427-4434-8090-386a13f29a78,plantar.repair,available,5.98,47.48,medium,
 a9c0d87f-43df-4e9b-bace-f79d19b33f40,torrential.repair,available,5.98,47.48,medium,low,10,namecheap,,,11/09/2026 17:57
 bb72c16c-d2e9-4b83-8a42-3b871fcd615a,persisting.repair,available,5.98,47.48,high,low,10,namecheap,,,14/08/2026 15:05
 c3f1c326-10e2-4758-9e83-cbe4a0a17c71,lohan.repair,available,13.99,46.99,medium,low,5,name.com,,,20/09/2026 05:07
+57255b03-4797-4037-a961-61b939f06e78,commanded.repair,available,28.2,28.2,medium,low,9,cloudflare,,,29/09/2026 16:38
 8760cdaf-2085-47d3-aafd-4816f3988276,runs.repair,available,12.99,36.99,high,low,4,namesilo,,,17/09/2026 13:37
 588c3f36-7fc3-42c6-878a-327c98eec383,contained.repair,available,5.98,47.48,high,low,9,namecheap,,,23/09/2026 21:42
 77c3ae0b-9943-46c8-8828-599455e9dab7,hardin.repair,available,12.99,36.99,medium,low,6,namesilo,,,28/09/2026 04:15
-e0924f91-b150-4a77-a0d8-4a068bd0777a,hostile.repair,available,12.99,36.99,medium,low,7,namesilo,,,25/09/2026 00:05
+e0924f91-b150-4a77-a0d8-4a068bd0777a,hostile.repair,available,12.99,36.99,high,low,7,namesilo,,,25/09/2026 00:05
 34c4ca30-98c8-4dbc-8b05-8d4412954def,warning.repair,available,5.98,47.48,high,low,7,namecheap,,,13/09/2026 08:25
 4c971771-7feb-4389-b3fa-6503a32dda7c,malian.repair,available,5.98,47.48,high,low,6,namecheap,,,24/08/2026 14:00
 144723a3-5241-4e39-b0fa-1696c98df4c5,boffo.repair,available,5.98,47.48,high,low,5,namecheap,,,10/08/2026 16:57
@@ -329,16 +351,18 @@ eb0b7079-3114-4d51-80b2-c7e40abe11b3,twopenny.repair,available,5.98,47.48,high,l
 214ebdd8-ae8f-44e7-85e1-fcd11cc89bda,hopeless.repair,available,5.98,47.48,medium,low,8,namecheap,,,21/08/2026 13:54
 86549d31-1a38-41f2-9dda-39069349bdf7,lillie.repair,available,5.98,47.48,high,low,6,namecheap,,,22/09/2026 21:47
 b8ad7270-895f-40d4-b429-0af54ba5e93b,thermoset.repair,available,5.98,47.48,medium,low,9,namecheap,,,11/09/2026 12:58
+e688bd63-2d19-4800-a452-3e811334457c,buddhism.repair,available,12.99,36.99,high,low,8,namesilo,,,30/09/2026 00:55
 72bd9af3-f98d-49db-bc8f-eb6dc6d48c58,lagger.repair,available,5.98,47.48,medium,low,6,namecheap,,,22/08/2026 18:42
 d8f2e274-b1e1-41ef-ba2e-cc1569ba3dc1,cowpens.repair,available,12.99,36.99,medium,low,7,namesilo,,,22/09/2026 14:56
 cc707e23-200b-4a4e-a4c9-99a4a3a0c1a2,belly.repair,available,12.99,36.99,high,low,5,namesilo,,,16/09/2026 14:48
-6b6d9be1-9d28-485a-9cbb-8c808987ec2b,cucumber.repair,available,9.99,,high,low,8,name.com,,,
+6b6d9be1-9d28-485a-9cbb-8c808987ec2b,cucumber.repair,available,12.99,36.99,high,low,8,namesilo,,,29/09/2026 12:58
 774ac245-4d9d-4833-b1fd-58cec9484f60,sectioned.repair,available,5.98,47.48,medium,low,9,namecheap,,,10/09/2026 01:20
 8dc65586-5a0d-4093-91a3-79af39195c8a,wai.repair,available,5.38,29.18,high,low,3,spaceship,,,29/09/2026 02:52
-359df1f7-7880-4b63-86be-fb1d650045c8,arroyo.repair,available,12.99,36.99,medium,low,6,namesilo,,,20/09/2026 09:33
-d9cf7235-b7c6-4b24-a715-8e2341337f18,lawton.repair,available,12.99,36.99,medium,low,6,namesilo,,,28/09/2026 02:15
+359df1f7-7880-4b63-86be-fb1d650045c8,arroyo.repair,available,12.99,36.99,high,low,6,namesilo,,,20/09/2026 09:33
+d9cf7235-b7c6-4b24-a715-8e2341337f18,lawton.repair,available,12.99,36.99,high,low,6,namesilo,,,28/09/2026 02:15
 43a5522f-7881-4a2d-b35a-720db3cd0b68,turn.repair,available,12.99,36.99,high,low,4,namesilo,,,24/09/2026 22:27
 22488f3f-faf0-482b-8727-7f8c953a6b3d,protozoon.repair,available,5.98,47.48,medium,low,9,namecheap,,,09/09/2026 04:16
+30c75c07-d965-4b41-bca9-65a1497d22d3,docking.repair,available,5.38,29.18,high,low,7,spaceship,,,29/09/2026 06:41
 426651a4-9b8f-4520-98b5-254597c9286d,monaural.repair,available,5.98,47.48,medium,low,8,namecheap,,,25/08/2026 04:20
 58b262a2-e0e9-4a43-a5a1-86e681063303,subsidized.repair,available,5.98,47.48,medium,low,10,namecheap,,,11/09/2026 00:46
 f859267d-2a1b-42e1-ba6d-42ba3af25731,devour.repair,available,9.99,,high,low,6,name.com,,,
@@ -349,29 +373,33 @@ b5528bb4-d7b5-419d-a79b-f761f12eaaec,unavailable.repair,available,5.38,29.18,med
 89d0fdd4-a6d6-44f3-ba23-6ec07b13fd7a,coptic.repair,available,5.98,47.48,high,low,6,namecheap,,,13/08/2026 00:36
 de6d71e9-8b04-4cfd-89ef-61c9708bc929,hesperian.repair,available,5.98,47.48,medium,low,9,namecheap,,,21/08/2026 07:27
 8ab0040b-0214-45a6-8f1c-16443acb6792,promotive.repair,available,5.98,47.48,high,low,9,namecheap,,,09/09/2026 03:13
-16387ca3-1a82-4ad9-bbad-f53b53904dfb,vitalizing.repair,available,5.98,47.48,medium,low,10,namecheap,,,23/08/2026 01:35
+16387ca3-1a82-4ad9-bbad-f53b53904dfb,vitalizing.repair,available,5.98,47.48,high,low,10,namecheap,,,23/08/2026 01:35
 2e72fde7-c149-4d67-b8b6-07aa770d4660,oaten.repair,available,5.98,47.48,medium,low,5,namecheap,,,03/09/2026 23:28
 67af1c6f-c32d-4e82-8fa8-df90010ab2c6,har.repair,available,7.71,30.18,high,low,3,dynadot,,,29/09/2026 03:11
-7f4512a4-1f3b-4902-a203-784e712d466a,skimpy.repair,available,5.98,47.48,medium,low,6,namecheap,,,10/09/2026 09:36
+7f4512a4-1f3b-4902-a203-784e712d466a,skimpy.repair,available,5.98,47.48,high,low,6,namecheap,,,10/09/2026 09:36
 b20fcbd7-0ebb-4e0b-9268-d9d53a62da27,taoist.repair,available,5.98,47.48,high,low,6,namecheap,,,11/09/2026 08:11
 4d96e94e-e211-48ee-9605-287d4117c3f0,magnet.repair,available,12.99,36.99,high,low,6,namesilo,,,21/09/2026 02:14
 5649d750-4640-40f2-aaf6-4693a2a6feb6,subscriber.repair,available,5.98,47.48,high,low,10,namecheap,,,24/09/2026 17:47
 d53ce11b-7ede-452d-82af-9d21ddd74483,astronomy.repair,available,5.98,47.48,high,low,9,namecheap,,,20/09/2026 18:10
+5a38fcac-eb48-47d8-b313-f09ff30fc233,whisky.repair,available,5.38,29.18,high,low,6,spaceship,,,29/09/2026 08:20
 3fec5564-6de7-4c74-a427-5fee54783bfe,freezing.repair,available,5.98,47.48,high,low,8,namecheap,,,25/09/2026 06:10
 6ebe4f5a-c139-4a4b-8c9c-81757dade723,garfield.repair,available,28.2,28.2,medium,low,8,cloudflare,,,28/09/2026 14:15
+9465592c-d995-42b4-a76c-1ebf1f2f9ce4,cultivate.repair,available,12,,high,low,9,unstoppable,,,29/09/2026 14:11
 85ac34aa-1006-4d08-af68-24ac48f5a61d,integral.repair,available,12.99,36.99,high,low,8,namesilo,,,23/09/2026 10:33
 104bdcd6-67be-4228-991b-942098fc2692,nanus.repair,available,5.98,47.48,medium,low,5,namecheap,,,24/08/2026 22:32
 5d33a3c2-1e63-4335-9dae-1da23db3ccb3,arrogance.repair,available,12.99,36.99,high,low,9,namesilo,,,20/09/2026 09:19
 a3f68a05-2d82-4a99-9d8f-d8f27db91c89,apiarian.repair,available,5.98,47.48,medium,low,8,namecheap,,,05/08/2026 23:53
-41d11f0f-1303-4ace-8267-3d95a078e88b,gloved.repair,available,5.98,47.48,medium,low,6,namecheap,,,20/08/2026 14:52
+41d11f0f-1303-4ace-8267-3d95a078e88b,gloved.repair,available,5.98,47.48,high,low,6,namecheap,,,20/08/2026 14:52
 bca0dae4-fe7c-4d27-9a53-ae7483ba517f,disparate.repair,available,5.98,47.48,medium,low,9,namecheap,,,14/08/2026 11:52
-a15f4024-9181-417b-828b-1d059bcfc59d,potentially.repair,available,5.38,29.18,medium,low,11,spaceship,,,28/09/2026 07:08
+a15f4024-9181-417b-828b-1d059bcfc59d,potentially.repair,available,5.38,29.18,high,low,11,spaceship,,,28/09/2026 07:08
 051d20ae-11f7-461d-8d6c-89aa00594720,florida.repair,resell,,,high,medium,7,"GoDaddy.com, LLC",20/07/2022 18:05,20/07/2027 18:05,26/09/2026 06:09
 706adcbe-1a48-405e-966d-0a850a56d706,heartfelt.repair,available,5.98,47.48,high,low,9,namecheap,,,21/08/2026 02:11
 626e4719-9f45-415c-8563-0d59ec13c86d,poetic.repair,available,5.98,47.48,high,low,6,namecheap,,,08/09/2026 22:33
+56ea83f4-c6c6-4696-bbde-c6c999aad7a1,lms.repair,available,5.38,29.18,high,low,3,spaceship,,,29/09/2026 15:35
 49d2d696-30be-4463-a7bb-a8f30ed0892f,doolittle.repair,available,12.99,36.99,medium,low,9,namesilo,,,29/09/2026 00:40
 39d64165-0809-4549-b3f5-f002882f9ace,autologous.repair,available,5.98,47.48,medium,low,10,namecheap,,,07/08/2026 20:37
 7eac79ff-bf9d-40b4-840e-b3b701a7b3b2,estate.repair,available,5.98,47.48,high,low,6,namecheap,,,17/09/2026 02:55
+75055424-a899-4554-8e88-dc6fafbb3e0b,conditioned.repair,available,12.99,36.99,medium,low,11,namesilo,,,29/09/2026 22:53
 92f8d3dc-6d2a-4d46-9b31-5e90833b0076,nostalgic.repair,available,5.98,47.48,high,low,9,namecheap,,,03/09/2026 21:59
 a7cc7391-1c1f-4171-9049-0006e105977e,tracy.repair,available,9.99,,high,low,5,name.com,,,
 b898e763-99fc-4255-a57c-2df54bdf46e8,dowding.repair,available,5.98,47.48,medium,low,7,namecheap,,,14/08/2026 17:10
@@ -387,11 +415,11 @@ dd01acf9-7e36-4a26-98ca-249a1c3610ce,speeds.repair,available,12.99,36.99,medium,
 52a92b40-2ce6-475d-8a6f-5222bc85b817,curly.repair,available,5.98,47.48,high,low,5,namecheap,,,13/08/2026 11:23
 ef6712d6-b9bb-4af5-a792-1ebfd669fdb2,kindergarten.repair,available,12.99,36.99,high,low,12,namesilo,,,29/09/2026 05:20
 df3b155b-da50-421d-8895-0a576103c50a,integrated.repair,available,12.99,36.99,high,low,10,namesilo,,,25/09/2026 08:05
-d1b93302-010b-430c-a6c7-ddf5eecc5a0e,apical.repair,available,5.98,47.48,medium,low,6,namecheap,,,05/08/2026 23:58
+d1b93302-010b-430c-a6c7-ddf5eecc5a0e,apical.repair,available,5.98,47.48,high,low,6,namecheap,,,05/08/2026 23:58
 a65b4d64-8d54-4539-a311-b759af972e69,replacing.repair,available,28.2,28.2,high,low,9,cloudflare,,,29/09/2026 02:02
-b1e7b26d-9172-4499-9a64-e709915c5e14,offhand.repair,available,5.98,47.48,medium,low,7,namecheap,,,
+b1e7b26d-9172-4499-9a64-e709915c5e14,offhand.repair,available,5.98,47.48,high,low,7,namecheap,,,
 0dc7dcd3-ca5a-4e05-8f78-6a4689a8362b,disordered.repair,available,5.98,47.48,medium,low,10,namecheap,,,14/08/2026 11:18
-8f8f9f74-8707-436a-a4fa-766b0ef7fe04,caldwell.repair,available,12.99,36.99,medium,low,8,namesilo,,,25/09/2026 03:55
+8f8f9f74-8707-436a-a4fa-766b0ef7fe04,caldwell.repair,available,12.99,36.99,high,low,8,namesilo,,,25/09/2026 03:55
 2c1845bc-c9c3-418e-a5a4-c1d2a36143b5,towns.repair,available,28.2,28.2,high,low,5,cloudflare,,,28/09/2026 07:32
 bb76fa57-90a3-4266-85a9-4c6d13a85a53,corsican.repair,available,5.98,47.48,high,low,8,namecheap,,,13/08/2026 02:33
 82aa593e-ff5e-4402-9667-087573752e88,erin.repair,available,5.38,29.18,high,low,4,spaceship,,,28/09/2026 05:36
@@ -400,6 +428,7 @@ bb76fa57-90a3-4266-85a9-4c6d13a85a53,corsican.repair,available,5.98,47.48,high,l
 a2652c2d-6712-471e-b195-54be41868ef9,bloomfield.repair,available,12.99,36.99,high,low,10,namesilo,,,25/09/2026 21:57
 fb571791-be34-45a5-ade3-65413d729c5e,tart.repair,available,13.99,46.99,medium,low,4,name.com,,,13/08/2026 14:25
 7e2979a2-4de2-4e7d-bed1-d2aac133c078,umpire.repair,available,12.99,36.99,medium,low,6,namesilo,,,20/09/2026 00:47
+6c507196-ed99-4a37-9944-9c399c9f8d36,socrates.repair,available,7.71,30.18,high,low,8,dynadot,,,29/09/2026 20:25
 afcde323-40f3-4e97-b8ee-8cc9ccdb8d90,chivalrous.repair,available,5.98,47.48,high,low,10,namecheap,,,12/08/2026 06:14
 bbfb34ef-b770-455c-8c8c-f52083a0966e,grinding.repair,available,5.38,29.18,medium,low,8,spaceship,,,28/09/2026 19:23
 92b7ab3b-0a49-4449-8dc5-5ec565beeb94,designedly.repair,available,5.98,47.48,medium,low,10,namecheap,,,13/09/2026 17:33
@@ -411,20 +440,24 @@ d3a332ab-3376-4166-b265-6334d4ededb9,relaxed.repair,available,5.98,47.48,high,lo
 886bb34f-e87b-41a4-909a-cb93a0f73ca6,impressions.repair,available,28.2,28.2,medium,low,11,cloudflare,,,28/09/2026 23:21
 b7523b4c-d465-4e19-a845-f426aeddfe38,erwin.repair,available,5.98,47.48,high,low,5,namecheap,,,27/09/2026 01:41
 75946438-f580-489a-902e-42cb1100ac36,ministry.repair,available,5.98,47.48,high,low,8,namecheap,,,28/09/2026 19:53
+72cab6ff-a038-4631-b677-aac282335528,emerged.repair,available,28.2,28.2,low,low,7,cloudflare,,,29/09/2026 16:31
 f180975b-3a4c-4253-b8c0-5d9b337d8cfc,disappointing.repair,available,5.38,29.18,medium,low,13,spaceship,,,28/09/2026 07:09
 162a6cf2-145e-4225-976c-aeea4bb61d23,rutty.repair,available,5.98,47.48,medium,low,5,namecheap,,,09/09/2026 20:24
-d4927841-7133-4340-8c92-088f653baedb,treats.repair,available,12,,medium,low,6,unstoppable,,,28/09/2026 05:00
+d4927841-7133-4340-8c92-088f653baedb,treats.repair,available,12,,high,low,6,unstoppable,,,28/09/2026 05:00
 9af6d4e4-eb32-4e78-9005-1a758217a1e2,taleteller.repair,available,5.98,47.48,medium,low,10,namecheap,,,11/09/2026 10:32
 4969e0d0-9129-4dda-b298-c43ecfa8994b,karin.repair,available,28.2,28.2,medium,low,5,cloudflare,,,29/09/2026 04:04
 db6214ff-1e49-4d2b-b718-abe35a387b85,keene.repair,available,12.99,36.99,high,low,5,namesilo,,,28/09/2026 03:36
 f7bd6e51-ff7d-47a3-a277-56f5ba5cedc0,rooms.repair,available,9.99,,high,low,5,name.com,,,
 e25d7f12-e6c3-4279-996c-e766e1a84bd3,longwise.repair,available,5.98,47.48,medium,low,8,namecheap,,,22/08/2026 23:42
 48394908-4c63-4b00-a7d3-d88bb2d3fb3a,internally.repair,available,5.98,47.48,medium,low,10,namecheap,,,15/09/2026 09:01
+73f7406b-14c3-44f2-9eab-23a6914a2cc2,editors.repair,available,12.99,36.99,medium,low,7,namesilo,,,29/09/2026 17:03
 36bd3989-c322-48a4-9151-1ca9f972b646,antlered.repair,available,5.98,47.48,medium,low,8,namecheap,,,05/08/2026 20:11
 b0d52f9e-56c5-474f-ba3b-c238058b5c41,greyed.repair,available,5.98,47.48,medium,low,6,namecheap,,,20/08/2026 20:04
+81ed0b98-8f5b-4f6d-9cb9-e73176610abf,consolidated.repair,available,5.38,29.18,high,low,12,spaceship,,,29/09/2026 16:56
 d4892b7d-d06b-4c71-8373-24af39ee2fa6,fields.repair,available,5.98,47.48,high,low,6,namecheap,,,25/09/2026 22:46
 a1ef4131-dfb1-440b-b31a-d70c7bd46783,foodie.repair,available,5.98,47.48,high,low,6,namecheap,,,17/08/2026 10:47
 5ef3407e-1cd0-4421-91a8-cf39fc55be34,alkeran.repair,available,5.98,47.48,medium,low,7,namecheap,,,18/09/2026 08:31
+d7632c93-bb4b-4050-bb66-11e8ee9ee2f6,enzyme.repair,available,12,,high,low,6,unstoppable,,,29/09/2026 12:12
 50fa655b-5051-482f-82c0-13f1932d011c,beth.repair,available,12.99,36.99,medium,low,4,namesilo,,,23/09/2026 11:12
 3dc53bd3-a599-45e1-a7b6-ed679f608f10,subatomic.repair,available,5.98,47.48,medium,low,9,namecheap,,,10/09/2026 23:38
 5303f76d-dd5a-4a00-aaa4-6c25f3a06a90,plumed.repair,available,5.98,47.48,medium,low,6,namecheap,,,08/09/2026 21:36
@@ -432,11 +465,10 @@ a1ef4131-dfb1-440b-b31a-d70c7bd46783,foodie.repair,available,5.98,47.48,high,low
 9318d6b3-af91-4be7-acbd-cd3c11b16857,alabaman.repair,available,12.99,36.99,medium,low,8,namesilo,,,18/09/2026 01:35
 ef65eeac-6574-46a6-9a8b-53b99a26816c,suggested.repair,available,12.99,36.99,medium,low,9,namesilo,,,18/09/2026 13:48
 1a87d0c3-cff2-426b-99ad-9cde522116f4,brewster.repair,available,28.2,28.2,medium,low,8,cloudflare,,,28/09/2026 11:34
-71a15721-7add-4ea7-8e1c-976529172335,christmas.repair,available,12.99,36.99,high,low,9,namesilo,,,27/09/2026 04:51
+71a15721-7add-4ea7-8e1c-976529172335,christmas.repair,available,12,36.99,high,low,9,unstoppable,,,29/09/2026 09:08
 d934e279-a351-4fa6-9ae2-86af0138085f,surefooted.repair,available,5.98,47.48,high,low,10,namecheap,,,18/08/2026 10:50
 beac50fe-6c01-40c0-ae4b-65b0c3e90884,unpleasant.repair,available,5.98,47.48,medium,low,10,namecheap,,,12/09/2026 16:58
-1382639f-750f-4560-8819-f56223272e43,ink.repair,available,,,high,medium,3,,,,
-d2376a41-98bf-4e60-bc5f-411f8ef8dd9f,discredit.repair,available,9.99,,high,low,9,name.com,,,
+d2376a41-98bf-4e60-bc5f-411f8ef8dd9f,discredit.repair,available,12,,high,low,9,unstoppable,,,29/09/2026 15:37
 f345d7cd-56ef-4eda-af59-6c359921919d,incognito.repair,available,5.98,47.48,high,low,9,namecheap,,,22/08/2026 01:36
 46c288e0-f01d-40bd-b3a4-07481d62c62f,ascendancy.repair,available,12.99,36.99,high,low,10,namesilo,,,20/09/2026 13:06
 ec3c546f-9d0e-4dd2-be5a-7b0c5be1a254,slowest.repair,available,5.98,47.48,medium,low,7,namecheap,,,16/09/2026 02:44
@@ -475,7 +507,7 @@ f0f1d275-083b-4849-b085-5f44fd4f9ca3,metz.repair,available,12.99,36.99,high,low,
 eafea3f3-5895-4831-a303-7dd914731d7c,illustrated.repair,available,9.99,,high,low,11,name.com,,,
 83c3b23c-a85a-4726-8591-b3aa153ba6ee,angered.repair,available,5.98,47.48,medium,low,7,namecheap,,,
 3c3f81d7-a4ac-48ab-96f1-946f03bf3eed,cells.repair,available,9.99,,high,low,5,name.com,,,
-77740b93-e4b6-4ff1-97a9-98d36d4e4bf5,choc.repair,available,9.99,,high,low,4,name.com,,,
+77740b93-e4b6-4ff1-97a9-98d36d4e4bf5,choc.repair,available,5.98,47.48,high,low,4,namecheap,,,29/09/2026 08:48
 f9221cd5-aa31-4bf9-a849-07c4bacd6dbb,definite.repair,available,13.99,46.99,high,low,8,name.com,,,24/09/2026 05:06
 49edeb71-cc23-4585-9e9d-1fc28533ff32,perfection.repair,available,12.99,36.99,high,low,10,namesilo,,,22/09/2026 22:03
 2bc5ebb5-8e49-4715-a59f-e4edcc36681a,abused.repair,available,5.98,47.48,high,low,6,namecheap,,,
@@ -485,16 +517,16 @@ f9221cd5-aa31-4bf9-a849-07c4bacd6dbb,definite.repair,available,13.99,46.99,high,
 10556f43-b0a9-4e62-a56f-5d493ef53bed,molecular.repair,available,5.98,47.48,high,low,9,namecheap,,,25/08/2026 03:53
 117ac700-4062-49fb-a9ce-988bb16c33d1,rated.repair,available,9.99,,high,low,5,name.com,,,
 14f6b5c1-9370-4fbf-bd90-cf68fa1e85f1,palliative.repair,available,5.98,47.48,high,low,10,namecheap,,,
-d6f5b9a5-1a5c-41be-9344-fd5a553d137d,president.repair,available,9.99,,high,low,9,name.com,,,
+d6f5b9a5-1a5c-41be-9344-fd5a553d137d,president.repair,available,5.38,29.18,high,low,9,spaceship,,,29/09/2026 07:56
 90017730-04b8-47e0-a20a-35b03e154a1c,instagrammable.repair,available,9.99,,medium,low,14,name.com,,,
 95a43ca1-2b8b-4ee2-af37-70b3b0fdeaaf,arulo.repair,available,12.99,36.99,medium,low,5,namesilo,,,20/09/2026 12:11
 3f0b6fe9-10b4-4596-b4fe-4b10ba575880,kurt.repair,available,12.99,36.99,high,low,4,namesilo,,,25/09/2026 13:27
 051c0a00-fc9a-4fa3-a4dd-f19e0b1f47dc,oddball.repair,available,5.98,47.48,high,low,7,namecheap,,,14/08/2026 23:25
 a0889732-aeaf-47a2-bf10-d85425ce77f6,judson.repair,available,7.71,30.18,medium,low,6,dynadot,,,28/09/2026 12:13
 7df31c7a-6ae6-4c2c-8c48-053675b8d6e4,marathon.repair,available,12.99,36.99,high,low,8,namesilo,,,22/09/2026 15:29
-e6116678-f431-41ec-bd9d-1e9a9544b6f6,malleable.repair,available,5.98,47.48,medium,low,9,namecheap,,,14/08/2026 20:52
+e6116678-f431-41ec-bd9d-1e9a9544b6f6,malleable.repair,available,5.98,47.48,high,low,9,namecheap,,,14/08/2026 20:52
 332de743-0af0-4643-8cad-f166264dd25e,tangibly.repair,available,5.98,47.48,medium,low,8,namecheap,,,16/09/2026 07:54
-734e9ad2-28a3-4d3a-a5da-6e8a2bf4d648,tantalum.repair,available,12.99,36.99,medium,low,8,namesilo,,,20/09/2026 23:42
+734e9ad2-28a3-4d3a-a5da-6e8a2bf4d648,tantalum.repair,available,12.99,36.99,high,low,8,namesilo,,,20/09/2026 23:42
 782f82e6-5c5e-4696-87d3-622482133747,hereby.repair,available,5.98,47.48,medium,low,6,namecheap,,,15/09/2026 00:25
 9a43f663-4e7e-4a08-afb6-be59613da76d,yearlong.repair,available,5.98,47.48,medium,low,8,namecheap,,,13/09/2026 14:24
 e7bbfc50-e2f5-48f4-ba53-592f9a44ad5e,wheezing.repair,available,5.98,47.48,medium,low,8,namecheap,,,07/08/2026 09:25
@@ -502,23 +534,24 @@ e7bbfc50-e2f5-48f4-ba53-592f9a44ad5e,wheezing.repair,available,5.98,47.48,medium
 32affbcf-c6db-44da-ae2b-e2b60edf2e55,berber.repair,available,12.99,36.99,high,low,6,namesilo,,,23/09/2026 09:07
 826e3bd6-25d4-431e-89b1-d8f23a63b9e0,destroying.repair,available,28.2,28.2,low,low,10,cloudflare,,,27/09/2026 21:23
 c77ac8c7-4f5b-451c-9591-4d66f6f20f14,bearable.repair,available,5.98,47.48,medium,low,8,namecheap,,,09/08/2026 04:27
+49faec6c-cd79-42b1-9896-54dedd4eb7fb,gland.repair,available,5.38,29.18,medium,low,5,spaceship,,,29/09/2026 07:05
 0d3e6a2a-705e-4628-b1f2-43327bd8055b,engraved.repair,available,5.98,47.48,high,low,8,namecheap,,,17/08/2026 07:40
 fc7a9e2f-d889-4051-b09f-2261df4e50f5,maleficent.repair,available,5.98,47.48,medium,low,10,namecheap,,,24/08/2026 13:58
 5d07a454-e8d8-418a-a8f5-ad750f8a60b5,abstracted.repair,available,5.98,47.48,medium,low,10,namecheap,,,
 5fc1de77-ff51-4209-9fa0-552a90cb12f5,tossed.repair,available,5.38,29.18,low,low,6,spaceship,,,28/09/2026 13:08
 d7a8dc6a-614b-4e4c-a666-97cf841e3d6e,trophic.repair,available,5.98,47.48,high,low,7,namecheap,,,11/09/2026 20:22
+a4ff1c72-a349-4a27-a521-592fb39440c3,productions.repair,available,5.38,29.18,medium,low,11,spaceship,,,30/09/2026 00:05
 0ff3896e-cd87-4091-8df9-d0b48834b109,correlate.repair,available,12.99,36.99,high,low,9,namesilo,,,23/09/2026 23:49
 4ffe054d-6062-4038-88c2-0a9036a9dacc,hamlet.repair,available,28.2,28.2,high,low,6,cloudflare,,,28/09/2026 18:50
 1397e979-30ba-4fc5-a48d-70bf573db431,billiards.repair,available,12.99,36.99,high,low,9,namesilo,,,23/09/2026 16:23
-a1c60e3a-c05f-4b38-893b-822d273b5b6d,palestine.repair,available,,,high,high,9,,,,
 6088bd26-3638-48fe-a4a6-000c77b56ce7,bedsore.repair,available,5.98,47.48,medium,low,7,namecheap,,,22/09/2026 23:40
-79e625b9-d1a0-4945-bc71-ee46664645c4,interview.repair,available,9.99,,high,low,9,name.com,,,
+79e625b9-d1a0-4945-bc71-ee46664645c4,interview.repair,available,12.99,36.99,high,low,9,namesilo,,,29/09/2026 11:18
 e38fc983-d817-4c93-9a4a-f3d28ee78a47,lumpy.repair,available,5.98,47.48,medium,low,5,namecheap,,,12/08/2026 07:46
 44ea41c4-31bc-40fc-8c1b-9f65ce779cb4,spartacus.repair,available,9.99,,high,low,9,name.com,,,
 d7c70195-55c6-4a8c-b311-aab40e7bfd2b,probing.repair,available,5.98,47.48,high,low,7,namecheap,,,22/08/2026 06:21
 1745c7b1-d420-45b2-a4f4-ced820d900c4,aerospace.repair,available,12.99,36.99,high,low,9,namesilo,,,17/09/2026 13:17
 ac9c0d4e-ff6d-454c-8a33-a3513a903d28,hourly.repair,available,12.99,36.99,high,low,6,namesilo,,,25/09/2026 00:10
-6b996fcc-d243-4166-aece-e7a6b1e553ae,allentown.repair,available,12.99,36.99,medium,low,9,namesilo,,,18/09/2026 10:52
+6b996fcc-d243-4166-aece-e7a6b1e553ae,allentown.repair,available,12.99,36.99,high,low,9,namesilo,,,18/09/2026 10:52
 40d10f69-bed6-44cb-b6d3-d8932bdb7009,formosa.repair,available,5.38,29.18,high,low,7,spaceship,,,28/09/2026 05:46
 48d0d6bc-4db3-4e06-94b9-22ead45961ed,systematic.repair,available,5.98,47.48,high,low,10,namecheap,,,11/09/2026 06:44
 102e844e-9129-4f33-8c29-02743e1b72d4,aloft.repair,available,5.98,47.48,medium,low,5,namecheap,,,13/09/2026 19:10
@@ -527,29 +560,32 @@ ac9c0d4e-ff6d-454c-8a33-a3513a903d28,hourly.repair,available,12.99,36.99,high,lo
 2f221346-65b6-4b45-9a7b-d2edab1b83d7,snowball.repair,available,5.98,47.48,high,low,8,namecheap,,,16/09/2026 17:20
 7da9370f-817e-42d4-bbf7-30842070778e,brenda.repair,premium,42.9,42.9,medium,low,6,namecheap,,,25/09/2026 15:27
 6aed003b-6403-49f4-a531-4b386017f958,cislunar.repair,available,5.98,47.48,medium,low,8,namecheap,,,12/08/2026 08:30
-9549a058-d64c-4173-b0a6-7ce57b449b9c,catered.repair,available,12.99,36.99,medium,low,7,namesilo,,,20/09/2026 17:04
+9549a058-d64c-4173-b0a6-7ce57b449b9c,catered.repair,available,12.99,36.99,high,low,7,namesilo,,,20/09/2026 17:04
 1e3f7101-a755-429e-8b5d-2c1b3ea9f4e8,blockade.repair,available,5.38,29.18,medium,low,8,spaceship,,,29/09/2026 01:13
 500b8452-591d-449b-a508-0d085d1a6b58,dues.repair,available,13.99,46.99,high,low,4,name.com,,,19/09/2026 19:46
 ff3d72cb-afd0-4591-a702-1900f3564b7b,accessary.repair,available,5.98,47.48,medium,low,9,namecheap,,,
 2b27d90c-e6c0-46c9-b13d-d2edb50e6c3c,spacetravel.repair,available,9.99,,high,low,12,name.com,,,
 0fee6270-bf29-4fe3-b641-fbd6129ec8ec,tourists.repair,available,12.99,36.99,medium,low,8,namesilo,,,18/09/2026 07:30
+00fc73c4-8189-4074-ac69-94dc54b1efa1,booty.repair,available,5.98,47.48,high,low,5,namecheap,,,29/09/2026 11:44
 448ac2db-0683-41a7-bdf6-dabe30bd33b4,minded.repair,available,5.98,47.48,high,low,6,namecheap,,,24/08/2026 23:35
 4c7a798e-01f1-4c0b-aa00-8999172b5861,oxonian.repair,available,5.98,47.48,medium,low,7,namecheap,,,04/09/2026 22:32
-85dbdd07-af96-4033-9924-2206f4bf72ef,dive.repair,available,9.99,,high,low,4,name.com,,,
-90bfcbee-70b9-4398-9475-9b0bd8d47b3d,permanently.repair,available,12.99,36.99,medium,low,11,namesilo,,,28/09/2026 07:19
+85dbdd07-af96-4033-9924-2206f4bf72ef,dive.repair,available,12.99,36.99,high,low,4,namesilo,,,29/09/2026 16:23
+90bfcbee-70b9-4398-9475-9b0bd8d47b3d,permanently.repair,available,12.99,36.99,high,low,11,namesilo,,,28/09/2026 07:19
 3fda309d-542e-4c52-aa66-21269adcaf56,howl.repair,available,12.99,36.99,high,low,4,namesilo,,,25/09/2026 00:27
+c49b7dac-f914-4c3f-999c-9bd0276e8664,entrusted.repair,available,5.38,29.18,medium,low,9,spaceship,,,29/09/2026 16:07
 bb64357c-4af1-417e-a3e2-646e529ceb23,artless.repair,available,5.98,47.48,medium,low,7,namecheap,,,06/08/2026 23:47
+720e5ba9-137b-43bd-aec0-3adaf27aeec7,scrolls.repair,available,12.99,36.99,medium,low,7,namesilo,,,30/09/2026 00:40
 12edcb73-f84d-43c8-9c0f-111b4a6f14f1,arrack.repair,available,5.98,47.48,medium,low,6,namecheap,,,19/09/2026 23:47
 b5795cfc-0e11-4242-ab88-8912b356d5d7,duodenal.repair,available,5.98,47.48,medium,low,8,namecheap,,,14/08/2026 21:21
 3e891b26-de81-4322-a75a-4fd59ef01413,lucid.repair,available,5.98,47.48,high,medium,5,namecheap,,,13/08/2026 09:42
 66bd3983-7bdf-4212-8b62-36661ea69023,belching.repair,available,12.99,36.99,medium,low,8,namesilo,,,23/09/2026 04:36
 50d8c819-1e2a-457f-875a-515a50d224bd,trainer.repair,available,7.71,30.18,high,low,7,dynadot,,,27/09/2026 13:32
 96fb5e8d-c6df-4b0b-89de-8e8072b43175,sheriff.repair,available,12.99,36.99,high,low,7,namesilo,,,27/09/2026 15:50
-a1761f6b-5cb7-4946-b802-8e4f9ed6b8e4,inky.repair,available,5.98,47.48,medium,low,4,namecheap,,,22/08/2026 05:42
+a1761f6b-5cb7-4946-b802-8e4f9ed6b8e4,inky.repair,available,5.98,47.48,high,low,4,namecheap,,,22/08/2026 05:42
 6d00333c-2178-4e32-ae31-1417b7e60ac9,macgregor.repair,available,7.72,29.35,medium,low,9,porkbun,,,28/09/2026 19:47
 1157164b-d968-472f-8d07-f5e279e77ae6,keynesian.repair,available,5.98,47.48,medium,low,9,namecheap,,,22/08/2026 15:46
 d87ddcb4-521e-4dac-b506-9d50449fb9fd,civilians.repair,available,12.99,36.99,medium,low,9,namesilo,,,28/09/2026 05:06
-585030cd-d248-4bd6-a0d7-4eb335bcb7a0,religion.repair,available,9.99,,high,low,8,name.com,,,
+585030cd-d248-4bd6-a0d7-4eb335bcb7a0,religion.repair,available,5.38,29.18,high,low,8,spaceship,,,29/09/2026 18:54
 df8b8176-11c3-4b85-81b9-f7c8640f427d,shandong.repair,available,5.38,29.18,medium,low,8,spaceship,,,29/09/2026 03:52
 60a0e033-d86d-4e6a-8907-46a957ecc972,audibility.repair,available,12.99,36.99,medium,low,10,namesilo,,,21/09/2026 02:52
 05654234-b659-494c-b76c-e5bf36ffd7d3,pyramid.repair,available,5.98,47.48,high,low,7,namecheap,,,08/09/2026 13:53
@@ -562,9 +598,9 @@ d861e15a-a33a-4a56-ad0f-bdb693bf9244,celebrating.repair,available,12.99,36.99,hi
 d2c13dd9-669f-4eb5-900f-42fcebef82c2,jean.repair,available,28.2,28.2,high,low,4,cloudflare,,,28/09/2026 01:02
 f3295992-8104-44ee-9459-ebfe8099daa5,weights.repair,available,9.99,,medium,low,7,name.com,,,
 ab35f9e6-f03d-4bc1-ac20-ef9529d1c35a,sins.repair,available,12.99,36.99,medium,low,4,namesilo,,,27/09/2026 10:40
-57366e95-f47d-4c82-b816-517b22728513,whopping.repair,available,5.98,47.48,medium,low,8,namecheap,,,08/08/2026 13:14
-29672c21-3de4-4ee8-8d4f-7e638e73d026,mask.repair,available,9.99,,high,low,4,name.com,,,
-cd6637e0-0f94-45e2-87ad-07a529e1a85a,humbled.repair,available,5.98,47.48,medium,low,7,namecheap,,,21/08/2026 15:00
+57366e95-f47d-4c82-b816-517b22728513,whopping.repair,available,5.98,47.48,high,low,8,namecheap,,,08/08/2026 13:14
+29672c21-3de4-4ee8-8d4f-7e638e73d026,mask.repair,available,5.38,29.18,high,low,4,spaceship,,,29/09/2026 10:08
+cd6637e0-0f94-45e2-87ad-07a529e1a85a,humbled.repair,available,5.98,47.48,high,low,7,namecheap,,,21/08/2026 15:00
 5701b350-9721-4b07-8307-7dcab8794b75,commandery.repair,available,12.99,36.99,medium,low,10,namesilo,,,29/09/2026 00:27
 8f705738-1237-409d-9e34-248262ddb65d,sensational.repair,available,9.99,,high,low,11,name.com,,,
 2f446ecd-9992-4970-9a01-0345b2019a61,biometry.repair,available,5.98,47.48,high,low,8,namecheap,,,23/09/2026 18:35
@@ -580,6 +616,7 @@ d740a212-2d2d-4c23-8dee-4f3e6b3ab6fc,recovered.repair,available,5.98,47.48,high,
 332f9d07-6086-4a21-97be-96264d248659,dimensions.repair,available,5.38,29.18,medium,low,10,spaceship,,,29/09/2026 04:43
 be9455d7-7bc2-40f1-82f0-318f9a7c41d0,mpa.repair,available,12,,medium,low,3,unstoppable,,,28/09/2026 11:24
 a954a6e0-32fe-42ee-8f39-977320d75ab3,devastating.repair,available,28.2,28.2,medium,low,11,cloudflare,,,28/09/2026 11:24
+b5bbd45a-778f-4d08-acb3-1c9272d54511,displays.repair,available,12.99,36.99,medium,low,8,namesilo,,,30/09/2026 00:15
 7af0877b-e5b0-462a-a893-3d5c52e4186d,arrivals.repair,available,13.99,46.99,medium,low,8,name.com,,,21/09/2026 01:02
 7f3b98ab-1dfb-4fb9-b299-e26f92b78cbb,shoes.repair,resell,,,high,low,5,"NameCheap, Inc.",30/03/2014 16:08,30/03/2027 16:08,26/09/2026 08:59
 327a2ab3-44b5-4192-8b25-6e3820b405fe,obdurate.repair,available,5.98,47.48,medium,low,8,namecheap,,,13/08/2026 12:15
@@ -593,9 +630,10 @@ c37ae725-89ce-48ae-9c5c-cc3ba161d87b,weldon.repair,available,5.98,47.48,medium,l
 c9d178e0-5c22-4f39-baf6-309c14ab9237,nodding.repair,available,5.98,47.48,high,low,7,namecheap,,,12/08/2026 00:48
 87712b24-bef5-46ab-ba71-45a22ca24a60,doi.repair,available,12,,high,low,3,unstoppable,,,28/09/2026 01:47
 00d70a1f-82b4-4dc0-9faf-5b1d66915f13,tenthly.repair,available,12.99,36.99,medium,low,7,namesilo,,,16/09/2026 08:21
+08a7a674-9dce-48a7-b355-1e7fcc90824d,wales.repair,available,12.99,36.99,high,low,5,namesilo,,,29/09/2026 06:12
 122b31ba-ae07-4a69-97e1-0b26d5ab6dfb,hughes.repair,available,12.99,36.99,high,low,6,namesilo,,,25/09/2026 04:10
 7f584b64-2a05-4398-934e-dde019ceb8e2,disarming.repair,available,5.98,47.48,high,low,9,namecheap,,,14/08/2026 09:30
-ae510994-eeae-4dcf-a898-db406cdf4c98,relish.repair,available,9.99,,high,low,6,name.com,,,
+ae510994-eeae-4dcf-a898-db406cdf4c98,relish.repair,available,12.99,36.99,high,low,6,namesilo,,,29/09/2026 21:47
 e21c9596-4be5-4a05-aec1-03afa304a917,allgood.repair,available,12.99,36.99,high,low,7,namesilo,,,18/09/2026 10:56
 54b84c9c-caf3-40b9-92e3-3dfa4d0288c6,annals.repair,available,12.99,36.99,high,low,6,namesilo,,,19/09/2026 10:05
 f636af5c-5b3f-46f6-b573-0e433fbb651c,fondly.repair,available,5.98,47.48,high,low,6,namecheap,,,14/09/2026 19:12
@@ -606,12 +644,12 @@ e38ffa42-64a6-47ca-b756-89af928b7c15,gear.repair,available,28.2,28.2,high,low,4,
 05192c0f-8a74-4874-a55a-61dee93f2b16,caramel.repair,available,5.98,47.48,high,low,7,namecheap,,,11/08/2026 18:28
 138f0b37-70f6-4ae0-abeb-09f6aee4b7ec,apadana.repair,available,12.99,36.99,medium,low,7,namesilo,,,19/09/2026 16:10
 ab71c4d4-7cee-4ca3-866b-550c4cbe72d4,affable.repair,available,5.98,47.48,high,low,7,namecheap,,,21/09/2026 21:27
-fbdca5ef-3ba4-4c38-b303-d74ce18a9f4a,cot.repair,available,9.99,,high,low,3,name.com,,,
+fbdca5ef-3ba4-4c38-b303-d74ce18a9f4a,cot.repair,available,7.72,29.35,high,low,3,porkbun,,,29/09/2026 06:09
 3add8593-cd51-4b74-b756-ce286b686967,rep.repair,resell,,,high,low,3,"Spaceship, Inc.",02/04/2014 16:00,02/04/2027 16:00,26/09/2026 08:36
 0c5d1742-68eb-49ba-b1e2-852fdd163764,aluminate.repair,available,12.99,36.99,medium,low,9,namesilo,,,18/09/2026 15:13
-3102aa7c-a298-4835-9ae4-c3834d6e7047,advisor.repair,available,12.99,36.99,high,low,7,namesilo,,,25/09/2026 05:10
-c60dfcac-0cd2-4640-a5e6-90daacf062fc,phrase.repair,available,9.99,,high,low,6,name.com,,,
-4c2314a8-6ae4-47c1-8b1c-2c853810c310,operated.repair,available,9.99,,medium,low,8,name.com,,,
+3102aa7c-a298-4835-9ae4-c3834d6e7047,advisor.repair,available,7.71,30.18,high,low,7,dynadot,,,29/09/2026 08:01
+c60dfcac-0cd2-4640-a5e6-90daacf062fc,phrase.repair,available,7.71,30.18,high,low,6,dynadot,,,29/09/2026 23:31
+4c2314a8-6ae4-47c1-8b1c-2c853810c310,operated.repair,available,9.99,,high,low,8,name.com,,,
 72d501fa-0544-4511-9e4a-d623ecc9a574,occurring.repair,available,9.99,,high,low,9,name.com,,,
 47f664fb-94ac-4d13-9118-163d79edad23,tbilisi.repair,available,5.38,29.18,medium,low,7,spaceship,,,28/09/2026 20:36
 e2292d44-a4c3-4520-91ee-fd635100ae9a,stimulation.repair,available,28.2,28.2,high,low,11,cloudflare,,,29/09/2026 04:53
@@ -619,6 +657,7 @@ e2292d44-a4c3-4520-91ee-fd635100ae9a,stimulation.repair,available,28.2,28.2,high
 4f30be09-b0ef-47bb-935d-5d02793d261f,zombie.repair,available,12.99,36.99,high,low,6,namesilo,,,21/09/2026 07:05
 cf8c486d-1b61-420a-91a3-4d78a58ae86c,coal.repair,available,12.99,36.99,high,low,4,namesilo,,,28/09/2026 01:38
 818d3933-5cc2-494a-b848-bc8c1c81a4e6,stoker.repair,available,12.99,36.99,medium,low,6,namesilo,,,16/09/2026 16:53
+2145a3fd-31a3-4e2d-8b2e-987f15c04c5a,sst.repair,available,7.72,29.35,high,low,3,porkbun,,,29/09/2026 21:43
 02763f0f-e911-44d6-bc01-67844830dc41,glut.repair,available,5.98,47.48,medium,low,4,namecheap,,,23/09/2026 17:21
 7a33c421-e934-4f29-af32-441bfab37b44,archil.repair,available,12.99,36.99,medium,low,6,namesilo,,,20/09/2026 02:06
 0b3f7cd5-c607-4510-9af5-03d3e30e5a7c,undigested.repair,available,5.98,47.48,medium,low,10,namecheap,,,12/09/2026 08:01
@@ -632,9 +671,11 @@ db57e715-72f7-4802-8588-0ed75d6277d7,breathed.repair,available,5.98,47.48,medium
 128ef3fa-632f-43dc-85e6-28c65569a9a2,pradesh.repair,available,7.72,29.35,high,low,7,porkbun,,,28/09/2026 03:36
 5db194a6-2549-43fb-b507-96257fc915ce,blameless.repair,available,5.98,47.48,high,low,9,namecheap,,,10/08/2026 12:53
 6b064e63-1aaa-4e8d-8ec2-7e56b81b5f4a,karlsruhe.repair,available,12.99,36.99,medium,low,9,namesilo,,,28/09/2026 12:19
-6df6a191-cc5d-4384-9f92-b9b0278b22d6,despise.repair,available,9.99,,high,low,7,name.com,,,
+6df6a191-cc5d-4384-9f92-b9b0278b22d6,despise.repair,available,12,,high,low,7,unstoppable,,,29/09/2026 15:39
 5c4442a1-3004-4e07-a0c6-3a8be3e4420b,henrietta.repair,available,5.98,47.48,high,low,9,namecheap,,,25/09/2026 17:42
+f3841769-f66a-46a6-a3c3-6509bc3f5d50,spokesman.repair,available,12,,high,low,9,unstoppable,,,29/09/2026 08:06
 da8f1d6f-169c-45c4-923e-c85673a03e9b,safety.repair,available,5.98,47.48,high,low,6,namecheap,,,08/09/2026 08:04
+a19c58ef-8d1b-4a04-8c53-a1dfbb69cdfc,inflicted.repair,available,7.71,30.18,low,low,9,dynadot,,,30/09/2026 00:06
 9aa4bc04-9223-4c25-8412-0eac853c19a9,norwalk.repair,available,5.38,29.18,medium,low,7,spaceship,,,28/09/2026 12:08
 6e537e8a-8d8f-4282-873e-51bc4a676c90,endogenic.repair,available,5.98,47.48,medium,low,9,namecheap,,,17/08/2026 01:13
 f6479545-d2c0-4db4-8e76-54b2da0afea8,disjointed.repair,available,5.98,47.48,medium,low,10,namecheap,,,14/08/2026 11:16
@@ -651,36 +692,38 @@ b5cb9ea1-cef8-403f-9e14-730942ad4fcb,uncomfortably.repair,available,9.99,,low,lo
 d9756c51-c613-4284-a312-e7ecc96bcc30,authorised.repair,premium,242,242,high,low,10,namesilo,,,22/09/2026 13:51
 a73ad061-1364-4532-9c09-bded7b21500c,basting.repair,available,5.98,47.48,medium,low,7,namecheap,,,22/09/2026 12:43
 9224d5df-f3f9-45b9-b9e4-98ff46870db4,squealed.repair,available,12.99,36.99,low,low,8,namesilo,,,20/09/2026 17:30
-4b17c936-23d8-436d-855d-e6e60d0cf832,faith.repair,available,9.99,,high,low,5,name.com,,,
+4b17c936-23d8-436d-855d-e6e60d0cf832,faith.repair,available,28.2,28.2,high,low,5,cloudflare,,,29/09/2026 18:54
 a187f2df-d668-4c6d-a35b-c0661d8f1925,untroubled.repair,available,5.98,47.48,high,low,10,namecheap,,,10/09/2026 01:30
+2684f2d3-79dd-46a7-983c-b80c6c14f425,enterprising.repair,available,7.72,29.35,high,low,12,porkbun,,,30/09/2026 02:31
 9c192004-c9b5-4479-a98e-da8981d4f77b,encumbered.repair,available,5.98,47.48,medium,low,10,namecheap,,,17/08/2026 00:40
-54157e03-26d1-4603-a7d1-ad7d335eb8b3,gratefully.repair,available,5.98,47.48,medium,low,10,namecheap,,,13/09/2026 20:28
+54157e03-26d1-4603-a7d1-ad7d335eb8b3,gratefully.repair,available,5.98,47.48,high,low,10,namecheap,,,13/09/2026 20:28
 53056596-d9c9-406c-be1e-773e365b74a6,wheeler.repair,available,5.98,47.48,high,low,7,namecheap,,,23/09/2026 13:27
 12d9eb47-9bc0-4ccb-b27f-74ea9decf2f0,tipple.repair,available,12.99,36.99,medium,low,6,namesilo,,,23/09/2026 12:44
 bfc5d81c-cd3e-428c-913a-a4ccac2668b6,clowning.repair,available,7.72,29.35,medium,low,8,porkbun,,,29/09/2026 05:10
-5b63196f-f425-4eb0-83f0-8db228b62de2,ticklish.repair,available,5.98,47.48,medium,low,8,namecheap,,,11/09/2026 15:33
+5b63196f-f425-4eb0-83f0-8db228b62de2,ticklish.repair,available,5.98,47.48,high,low,8,namecheap,,,11/09/2026 15:33
 f5578b0c-f60e-4898-929a-d7c03726c9ed,vitamin.repair,available,5.98,47.48,high,low,7,namecheap,,,08/09/2026 14:16
-c48a89ca-9a28-4c13-ba99-de0cdc972305,senegalese.repair,available,5.98,47.48,medium,low,10,namecheap,,,10/09/2026 03:43
+c48a89ca-9a28-4c13-ba99-de0cdc972305,senegalese.repair,available,5.98,47.48,high,low,10,namecheap,,,10/09/2026 03:43
 d8e6e8ed-4e5e-4fed-882c-e4a67023e9c4,banishment.repair,available,12.99,36.99,medium,low,10,namesilo,,,22/09/2026 02:06
 139bd989-17ca-4c69-b420-00979b3bb243,senseless.repair,available,5.98,47.48,medium,low,9,namecheap,,,03/09/2026 17:48
 79554a34-6a38-4bd2-a544-5bfed228d109,distressed.repair,available,5.98,47.48,medium,low,10,namecheap,,,14/08/2026 12:16
-fc04e559-5be2-4148-a4b3-478ed3921679,conduction.repair,available,9.99,,high,low,10,name.com,,,
-f9218bd4-b03c-4f0a-83f1-b5a0788ff547,alimony.repair,available,5.98,47.48,medium,low,7,namecheap,,,28/09/2026 20:27
+fc04e559-5be2-4148-a4b3-478ed3921679,conduction.repair,available,28.2,28.2,high,low,10,cloudflare,,,29/09/2026 10:47
+f9218bd4-b03c-4f0a-83f1-b5a0788ff547,alimony.repair,available,5.98,47.48,high,low,7,namecheap,,,28/09/2026 20:27
 229ad5f9-98fa-49e9-b710-33370f3e4fe2,liberated.repair,available,5.98,47.48,high,low,9,namecheap,,,16/08/2026 06:20
 ae58c57e-82a5-4372-9f29-d8999fc843d8,suffering.repair,available,5.98,47.48,high,low,9,namecheap,,,25/08/2026 01:27
 8c0ba6d3-82af-4d9b-acb1-215c1e02cb9d,deictic.repair,available,5.98,47.48,medium,low,7,namecheap,,,14/08/2026 00:12
-90e1f674-3eb3-40ac-90e8-37fab4af725c,prague.repair,premium,102.67,102.67,medium,low,6,spaceship,,,29/09/2026 00:35
+90e1f674-3eb3-40ac-90e8-37fab4af725c,prague.repair,premium,102.67,102.67,high,low,6,spaceship,,,29/09/2026 00:35
 754c1319-0a3b-4362-a2f5-74596407f2b3,genital.repair,available,5.98,47.48,medium,low,7,namecheap,,,18/08/2026 21:40
 3e077fef-634e-48fb-b89c-50dd59a71384,teatime.repair,available,12.99,36.99,high,low,7,namesilo,,,17/09/2026 15:45
 1a4a7336-1dbc-44b1-8a8d-c849c7507c94,phil.repair,available,9.99,,high,medium,4,name.com,,,
-a7087b92-fd9e-49e6-b97f-55ea95e7d08b,nepalese.repair,available,5.98,47.48,medium,low,8,namecheap,,,03/09/2026 15:35
+a7087b92-fd9e-49e6-b97f-55ea95e7d08b,nepalese.repair,available,5.98,47.48,high,low,8,namecheap,,,03/09/2026 15:35
+2657f856-8d39-4512-a072-ce95408ab667,valet.repair,available,12,,high,low,5,unstoppable,,,29/09/2026 19:00
 08aea12f-5887-4d56-9439-e56f53e9a7d4,changed.repair,available,5.98,47.48,high,low,7,namecheap,,,12/08/2026 01:53
 3e3eac68-4606-4119-ad47-0e70eaf40726,surveillance.repair,available,12.99,36.99,high,low,12,namesilo,,,27/09/2026 08:40
 7e714957-5554-4301-b3b9-4170ca7cda3b,diner.repair,available,12,,high,low,5,unstoppable,,,29/09/2026 05:07
 eab64724-e218-48a9-9ec4-e5a56d60cacd,ttyl.repair,available,9.99,,medium,low,4,name.com,,,
 de6d0300-aea4-4f94-a2bb-b293081d24e8,foxy.repair,available,5.98,47.48,high,low,4,namecheap,,,13/08/2026 04:30
 972535a2-7955-494a-ad1b-d299f423ade2,reduced.repair,available,5.98,47.48,medium,low,7,namecheap,,,13/08/2026 22:10
-d80e2407-7d32-4801-a075-a8acead35cc0,slipping.repair,available,5.98,47.48,medium,low,8,namecheap,,,10/09/2026 11:05
+d80e2407-7d32-4801-a075-a8acead35cc0,slipping.repair,available,5.98,47.48,high,low,8,namecheap,,,10/09/2026 11:05
 cf033690-0ea4-402c-af21-7a4b49621696,albatross.repair,available,12.99,36.99,high,low,9,namesilo,,,18/09/2026 02:28
 b54adddc-3455-4610-bc5e-0b9aab2e4c17,joseph.repair,premium,242,242,high,low,6,namesilo,,,24/09/2026 14:32
 52349d10-6fde-4e53-8465-66d2eab5b534,forth.repair,available,12.99,36.99,high,low,5,namesilo,,,22/09/2026 14:59
@@ -688,6 +731,7 @@ b54adddc-3455-4610-bc5e-0b9aab2e4c17,joseph.repair,premium,242,242,high,low,6,na
 8bb88c79-f668-4382-890d-cf8b76c3f9b5,boredom.repair,available,12.99,36.99,medium,low,7,namesilo,,,24/09/2026 07:28
 f6e64ab5-2937-48a0-8fae-d50b3e8c44f8,amenable.repair,available,12.99,36.99,high,low,8,namesilo,,,22/09/2026 04:02
 2b1275db-aa3a-4b95-b041-1b49eae4ee76,sanction.repair,available,5.98,47.48,high,low,8,namecheap,,,03/09/2026 23:24
+89cc069e-88af-47a7-8985-797145862733,cheerleader.repair,available,5.38,29.18,high,low,11,spaceship,,,29/09/2026 21:07
 94718f63-dd04-4ac8-a935-6cc6e859e61f,gourmet.repair,available,12.99,36.99,high,low,7,namesilo,,,24/09/2026 14:33
 40cfabba-ec28-453d-a7cc-c9d12b953296,semiliquid.repair,available,5.98,47.48,medium,low,10,namecheap,,,10/09/2026 03:07
 3d6c6a5e-a2f0-4fcf-b167-6d4070dc8979,myotic.repair,available,5.98,47.48,medium,low,6,namecheap,,,25/08/2026 01:02
@@ -696,18 +740,21 @@ fa76ebf7-9d40-422d-8d8d-419fcea76a01,profits.repair,available,28.2,28.2,high,low
 fea4e373-3ecb-45b0-aafc-b1712a68b008,vastly.repair,available,5.98,47.48,high,low,6,namecheap,,,15/09/2026 01:56
 1aa86ca9-30e1-4028-a32e-f5983c59e315,medication.repair,available,9.99,,high,low,10,name.com,,,
 437d3d37-1a27-4e8f-b0c9-4817de7c36f7,investigate.repair,available,12.99,36.99,high,low,11,namesilo,,,26/09/2026 00:41
-d118251c-16e9-4362-b2f5-e9cd8d649619,millionth.repair,available,5.98,47.48,medium,low,9,namecheap,,,24/08/2026 23:25
+35cc7cdc-cbff-4ae8-ba68-bf3c04d2dc25,vowel.repair,available,5.38,29.18,high,low,5,spaceship,,,29/09/2026 20:36
+d118251c-16e9-4362-b2f5-e9cd8d649619,millionth.repair,available,5.98,47.48,high,low,9,namecheap,,,24/08/2026 23:25
 3107ddb8-a761-4c64-b9a3-9c6fd6ba125f,impatient.repair,available,5.98,47.48,medium,low,9,namecheap,,,21/08/2026 21:53
 7541930a-ec32-450d-9645-378beffe8216,eggplant.repair,available,12.99,36.99,high,low,8,namesilo,,,21/09/2026 02:30
 166c3d39-1302-4c99-b7a8-4ba0a26eb837,quack.repair,available,5.98,47.48,high,low,5,namecheap,,,09/09/2026 07:16
 078d7aef-c69b-4149-8a6e-c16116ab1837,vested.repair,available,5.98,47.48,high,low,6,namecheap,,,13/09/2026 04:49
 9d421926-65ba-4da0-be99-8860bbb27511,dip.repair,available,12.99,36.99,high,low,3,namesilo,,,24/09/2026 10:33
 788cd1bb-73bb-4a9b-bf59-d3c97e2df23a,argonaut.repair,available,12.99,36.99,medium,low,8,namesilo,,,20/09/2026 04:31
-eff59758-e7ad-4364-b165-57c2b594a36d,pubescent.repair,available,5.98,47.48,medium,low,9,namecheap,,,09/09/2026 05:15
-8c4f758b-98a7-4df5-ad48-b08143e6c85b,kilo.repair,available,9.99,,high,low,4,name.com,,,
+eff59758-e7ad-4364-b165-57c2b594a36d,pubescent.repair,available,5.98,47.48,high,low,9,namecheap,,,09/09/2026 05:15
+c352c896-6146-4a6b-8ea4-f4af729a7953,federalism.repair,available,5.38,29.18,high,low,10,spaceship,,,29/09/2026 12:14
+8c4f758b-98a7-4df5-ad48-b08143e6c85b,kilo.repair,available,9.99,61.99,high,low,4,godaddy,,,30/09/2026 01:16
 d38dbc09-c404-463a-ad76-e8cb3080eaaa,abuja.repair,available,13.99,46.99,medium,low,5,name.com,,,16/09/2026 18:50
 e25cbfcb-1ae1-48c2-94f6-618f81ad530e,cochlear.repair,available,5.98,47.48,medium,low,8,namecheap,,,12/08/2026 14:45
 f6735bdb-cec6-479b-a5e3-3b94014a8efc,turner.repair,available,7.71,30.18,high,low,6,dynadot,,,29/09/2026 00:58
+c58e7c2b-107c-45ce-9615-35a43fdf3499,berks.repair,available,7.71,30.18,medium,low,5,dynadot,,,29/09/2026 15:22
 bc72343e-1917-4b77-a1fb-a7ab636399b0,pouf.repair,available,5.98,47.48,medium,low,4,namecheap,,,09/09/2026 08:13
 cc2bcddc-c62c-4f5b-8741-54548592080f,tall.repair,available,12.99,36.99,high,low,4,namesilo,,,24/09/2026 22:52
 38cf5310-378c-4897-87ca-913e923919bb,unlighted.repair,available,5.98,47.48,medium,low,9,namecheap,,,12/09/2026 13:01
@@ -719,7 +766,7 @@ fdd0be31-019e-494c-b299-8f6c0ec7d4c1,boreal.repair,available,5.98,47.48,high,low
 bea10b60-2253-4696-aac0-5f5f893b9fed,hokkaido.repair,available,12.99,36.99,high,low,8,namesilo,,,28/09/2026 05:40
 5a17bfbf-3349-4858-be19-0ed29b020ad1,exclaims.repair,available,12.99,36.99,medium,low,8,namesilo,,,19/09/2026 23:36
 28b9c7aa-4f03-4f69-a1c8-43ca0d14164d,para.repair,available,12.99,36.99,high,low,4,namesilo,,,23/09/2026 04:51
-a56d26d6-c879-4073-a85a-732f71624680,outcomes.repair,available,12.99,36.99,medium,low,8,namesilo,,,19/09/2026 12:31
+a56d26d6-c879-4073-a85a-732f71624680,outcomes.repair,available,12.99,36.99,high,low,8,namesilo,,,19/09/2026 12:31
 6df61368-1032-40ff-91e5-0924fe64cb5f,barbeque.repair,available,12.99,36.99,high,low,8,namesilo,,,29/09/2026 01:07
 74eed1b4-8504-4dcd-9169-e92318bdb62e,doubts.repair,available,5.38,29.18,low,low,6,spaceship,,,28/09/2026 04:45
 d49fa49f-26e1-4270-ab43-3c5414f59b54,westminster.repair,available,9.99,,high,low,11,name.com,,,
@@ -734,7 +781,8 @@ d7c4e3ba-b3ae-46f0-913d-75c29e9a85c5,convoy.repair,available,5.38,29.18,medium,l
 d1b91fde-d7a6-4f40-ba47-6c18019f2f2c,vodka.repair,available,9.99,,high,low,5,name.com,,,
 5e95c984-99b4-4ef5-a930-4bfb079fbec4,anatomical.repair,available,5.98,47.48,medium,low,10,namecheap,,,
 c9a7f054-63ef-4d5b-b9bb-1007398b11b9,disfigure.repair,available,5.98,47.48,medium,low,9,namecheap,,,24/09/2026 05:36
-6c439eda-fb3b-4f44-84fa-6fe4a5a7dbb1,fossorial.repair,available,5.98,47.48,medium,low,9,namecheap,,,18/08/2026 13:21
+6c439eda-fb3b-4f44-84fa-6fe4a5a7dbb1,fossorial.repair,available,5.98,47.48,high,low,9,namecheap,,,18/08/2026 13:21
+3a3caf95-aa0a-41b2-b5f4-4cccf6065707,tissues.repair,available,12,,medium,low,7,unstoppable,,,29/09/2026 10:39
 e117f373-7f1a-4287-85d4-27f293a333ee,unprompted.repair,available,5.98,47.48,medium,low,10,namecheap,,,21/08/2026 23:28
 c83dd12a-f157-4ded-8918-30a477cd3fbd,tannenberg.repair,available,5.98,47.48,medium,low,10,namecheap,,,22/09/2026 16:05
 26b13346-103c-4e98-a7a5-686f5eea53e0,insufficient.repair,available,9.99,,medium,low,12,name.com,,,
@@ -742,11 +790,11 @@ b3c01e6c-35f8-44d3-bf10-95bc663d1d04,plaster.repair,available,12.99,36.99,high,l
 babf98bc-2072-48de-992e-3a189aec195b,haley.repair,available,12.99,36.99,high,low,5,namesilo,,,18/09/2026 05:45
 c44808b7-4527-47be-81da-ede83d2cbe9e,bicycling.repair,available,5.98,47.48,high,low,9,namecheap,,,23/09/2026 13:28
 110a6068-a3c1-46e6-a117-bd590c97eee2,berry.repair,available,12.99,36.99,high,low,5,namesilo,,,23/09/2026 10:10
-ff25e8c8-c38f-4a3e-a816-c57abbc6aa88,ecommerce.repair,available,9.99,,high,low,10,name.com,,,
 1be66b0c-21c7-457f-bb32-4ee2e2b4e92d,informers.repair,available,12.99,36.99,medium,low,9,namesilo,,,21/09/2026 09:19
 eef0069e-97fd-481a-b772-c4f4dad147ee,freddy.repair,available,5.38,29.18,high,low,6,spaceship,,,28/09/2026 07:49
 4ce6528b-9368-4b18-812d-1425d7e2071e,bought.repair,available,9.99,,high,low,6,name.com,,,
 adaf0e7c-2aa9-4ca2-adea-9dc4f12ae655,snowballs.repair,available,12.99,36.99,medium,low,9,namesilo,,,19/09/2026 21:49
+58343818-fb78-41e5-9534-e817f72af7cd,assumptions.repair,available,5.98,47.48,medium,low,11,namecheap,,,30/09/2026 00:31
 4af45ba8-ebc2-482b-a2d4-e4d749aa95ca,accommodate.repair,available,9.99,,high,low,11,name.com,,,
 1986e92f-6095-4100-8c37-c95f24b6d437,grassroots.repair,available,5.98,47.48,high,low,11,namecheap,,,20/08/2026 18:16
 73c481d6-c662-45ee-84e2-7259c06261a6,stalled.repair,available,12.99,36.99,medium,low,7,namesilo,,,20/09/2026 17:27
@@ -759,17 +807,19 @@ aa1c9198-ed58-4727-a33a-3526ec26e344,ararat.repair,available,12.99,36.99,medium,
 65dce2e8-9062-46d7-bca1-e75badb20505,helpless.repair,available,5.98,47.48,medium,low,8,namecheap,,,21/08/2026 06:38
 213cf80e-9bce-4a40-9d87-1548efc7ccd7,congratulations.repair,available,9.99,,high,low,15,name.com,,,
 65e09208-8140-40d1-b536-552077ed5540,factor.repair,available,12.99,36.99,high,low,6,namesilo,,,29/09/2026 04:30
+9908c72b-0a44-48ab-9fbe-3ecdb812d531,forthcoming.repair,available,5.38,29.18,high,low,11,spaceship,,,29/09/2026 14:27
+a677bf26-b420-4c32-b35c-e7c07ae1b824,lowe.repair,available,5.38,29.18,high,low,4,spaceship,,,29/09/2026 15:01
 3fa3cc9f-7197-45c8-8a28-303f09310d39,prospering.repair,available,5.98,47.48,medium,low,10,namecheap,,,10/08/2026 19:17
 b4110ad3-c6a4-4b27-9cb6-2330c093544a,vocalists.repair,available,5.98,47.48,medium,low,9,namecheap,,,19/09/2026 21:58
-07163762-8c1e-4ebd-b088-46f93be8882e,willy.repair,available,5.98,47.48,medium,low,5,namecheap,,,27/09/2026 06:19
+07163762-8c1e-4ebd-b088-46f93be8882e,willy.repair,available,5.98,47.48,high,low,5,namecheap,,,27/09/2026 06:19
 1b928fde-eb61-48ec-bb58-751bb1c39702,carrie.repair,available,9.99,,high,low,6,name.com,,,
 57313edc-0201-4133-bdad-433cf6be0cf2,advertizer.repair,available,5.98,47.48,medium,low,10,namecheap,,,17/09/2026 08:39
 f1bdca8a-cc0b-45fa-bdff-5b20424ab14c,wills.repair,available,5.38,29.18,medium,low,5,spaceship,,,29/09/2026 03:50
 f188d451-0211-409c-885a-9de16571a35c,mosquitoes.repair,available,12.99,36.99,low,low,10,namesilo,,,18/09/2026 14:22
-a0802881-5d11-4994-b040-d6e3516fe18f,summerset.repair,available,5.98,47.48,medium,low,9,namecheap,,,18/08/2026 08:29
+a0802881-5d11-4994-b040-d6e3516fe18f,summerset.repair,available,5.98,47.48,high,low,9,namecheap,,,18/08/2026 08:29
 22303e11-f4b9-4e42-b86b-bfcd93feab1f,sergeant.repair,available,5.38,29.18,high,low,8,spaceship,,,28/09/2026 06:37
 3d7aa660-63bb-47d0-b4d8-dfe084d22694,anlage.repair,available,5.98,47.48,medium,low,6,namecheap,,,19/09/2026 09:53
-91811a27-ace7-4dd1-828c-ad28d4520e2b,agama.repair,available,12.99,36.99,medium,low,5,namesilo,,,17/09/2026 16:05
+91811a27-ace7-4dd1-828c-ad28d4520e2b,agama.repair,available,12.99,36.99,high,low,5,namesilo,,,17/09/2026 16:05
 c4775ccb-92a4-42eb-ab27-ac3e71119807,irrational.repair,available,12.99,36.99,high,low,10,namesilo,,,25/09/2026 11:23
 d15c92c7-32d1-4252-8cac-8155ccfee1fd,wine.repair,available,9.99,,high,low,4,name.com,,,
 71721383-a7b9-4aa8-a3b2-65f4ebc162af,producer.repair,available,12.99,36.99,high,low,8,namesilo,,,25/09/2026 10:38
@@ -780,30 +830,31 @@ d7e0b4dd-983c-4725-9345-49b2f015df9e,chairperson.repair,available,9.99,,high,low
 40e0fb7e-789c-4641-876b-daa36d7cb048,bury.repair,available,9.99,,high,low,4,name.com,,,
 ff39ec4a-8c00-4555-b8a2-441aecd1b61c,harold.repair,premium,118.8,118.8,high,low,6,namesilo,,,
 11a50c15-5341-4b9a-b853-eaa31f5c6108,seeger.repair,available,5.98,47.48,high,low,6,namecheap,,,18/09/2026 01:49
-636f78ca-8427-49a2-8621-f4c3b54bb54a,ecological.repair,available,9.99,,high,low,10,name.com,,,22/09/2026 21:01
+636f78ca-8427-49a2-8621-f4c3b54bb54a,ecological.repair,available,5.38,29.18,high,low,10,spaceship,,,29/09/2026 21:02
 11a892f5-8e39-4e65-8e82-77879642f837,agonist.repair,available,5.98,47.48,medium,low,7,namecheap,,,17/09/2026 18:56
 83347293-c939-4de8-814e-ae956d50540b,somalian.repair,available,5.98,47.48,medium,low,8,namecheap,,,10/09/2026 13:56
 2b8a857c-d5f4-4eeb-9aec-13c22dab47c5,blankly.repair,available,5.98,47.48,medium,low,7,namecheap,,,14/09/2026 00:13
-9bbd495d-db54-432b-ba2c-4435b663a548,bellyful.repair,available,12.99,36.99,medium,low,8,namesilo,,,23/09/2026 06:51
+9bbd495d-db54-432b-ba2c-4435b663a548,bellyful.repair,available,12.99,36.99,high,low,8,namesilo,,,23/09/2026 06:51
 d5d1f187-0168-4122-8dd7-0c59a1246ddd,valid.repair,available,28.2,28.2,high,low,5,cloudflare,,,28/09/2026 10:05
 b9875e11-008e-4ce3-84b6-cfee968f3164,aching.repair,available,5.98,47.48,medium,low,6,namecheap,,,
 9b9fda24-c378-4f8d-8ce9-ec88c99f51c0,globally.repair,available,5.98,47.48,high,low,8,namecheap,,,14/09/2026 21:41
 e1315c84-54b9-45fc-b06d-652a6e6c9dee,traces.repair,available,5.38,29.18,medium,low,6,spaceship,,,28/09/2026 08:47
 33d58ed1-edb1-402c-8f9f-439c67dad896,mumbai.repair,premium,38.94,38.94,medium,low,6,namesilo,,,29/09/2026 00:13
 e0c2ab3e-6ff1-40b3-82d7-7460c7685612,corsair.repair,available,12.99,36.99,high,low,7,namesilo,,,22/09/2026 04:33
-759cdc90-8475-40fc-9060-770b8e885448,skies.repair,available,12.99,36.99,medium,low,5,namesilo,,,18/09/2026 07:49
+759cdc90-8475-40fc-9060-770b8e885448,skies.repair,available,12.99,36.99,high,low,5,namesilo,,,18/09/2026 07:49
+8886740c-1fa8-4410-828d-432d41ee5fc4,flux.repair,resell,,,high,medium,4,,,,30/09/2026 01:38
 7559d89c-e78d-40e5-9677-e23e9639c7f6,seeing.repair,available,28.2,28.2,high,low,6,cloudflare,,,27/09/2026 19:35
-84172b1f-f9a9-482a-9d34-cf6441381677,disbelief.repair,available,5.98,47.48,medium,low,9,namecheap,,,24/09/2026 22:29
-7cde59c2-147b-4484-89a9-18eecac0e014,icu.repair,available,9.99,,high,low,3,name.com,,,
+84172b1f-f9a9-482a-9d34-cf6441381677,disbelief.repair,available,5.98,47.48,high,low,9,namecheap,,,24/09/2026 22:29
+7cde59c2-147b-4484-89a9-18eecac0e014,icu.repair,available,12.99,36.99,high,low,3,namesilo,,,29/09/2026 23:28
 1ef8a42b-9820-4a2c-aa02-6605f9ea3478,entangled.repair,available,5.98,47.48,medium,low,9,namecheap,,,16/08/2026 13:26
 d25569df-af8c-4e8a-abd9-a83fed40190a,horned.repair,available,5.98,47.48,medium,low,6,namecheap,,,21/08/2026 14:04
 fe4f7f30-57cc-45b0-9cc6-e8fde6527f3a,allowed.repair,available,9.99,,high,low,7,name.com,,,
 eaed2380-0d85-4eeb-a172-dd7889829e88,meticulous.repair,available,5.98,47.48,high,low,10,namecheap,,,24/08/2026 22:04
-89ac9675-2f33-45a1-ba36-476ba180b9cf,ashy.repair,available,5.98,47.48,medium,low,4,namecheap,,,07/08/2026 02:04
+89ac9675-2f33-45a1-ba36-476ba180b9cf,ashy.repair,available,5.98,47.48,high,low,4,namecheap,,,07/08/2026 02:04
 b3628de8-5d5e-42c8-9fd5-15129c40ee4a,biotitic.repair,available,5.98,47.48,medium,low,8,namecheap,,,10/08/2026 03:33
 664085fb-ed29-4ad1-a981-4a8e1bd4d447,asepsis.repair,available,5.98,47.48,medium,low,7,namecheap,,,19/09/2026 15:02
 74545ee8-5f4d-4335-bc92-b8eb85743950,barbecue.repair,available,7.71,30.18,high,low,8,dynadot,,,29/09/2026 01:06
-a08fe58f-9145-413f-92cd-b8e306690271,unabridged.repair,available,5.98,47.48,medium,low,10,namecheap,,,11/09/2026 23:28
+a08fe58f-9145-413f-92cd-b8e306690271,unabridged.repair,available,5.98,47.48,high,low,10,namecheap,,,11/09/2026 23:28
 0a934faa-9821-4313-b866-bea9ea340655,seize.repair,available,5.98,47.48,high,low,5,namecheap,,,23/09/2026 20:08
 dd1abcf4-3ef7-4612-a58b-7729f4474f27,aerology.repair,available,5.98,47.48,medium,low,8,namecheap,,,17/09/2026 13:08
 5bb40643-a576-4ae2-a30c-8f3eea41d551,befitting.repair,available,5.98,47.48,medium,low,9,namecheap,,,09/08/2026 08:38
@@ -812,6 +863,7 @@ dd1abcf4-3ef7-4612-a58b-7729f4474f27,aerology.repair,available,5.98,47.48,medium
 23cde4de-c3dc-4fd9-95b3-aeb60a27aaa0,uncolored.repair,available,5.98,47.48,medium,low,9,namecheap,,,12/09/2026 02:06
 5b48e603-7307-4381-8a1a-e866c13af227,alonzo.repair,available,5.38,29.18,medium,low,6,spaceship,,,28/09/2026 17:51
 aad5fb50-8403-4b19-a328-a21474ab4083,aspherical.repair,available,5.98,47.48,medium,low,10,namecheap,,,07/08/2026 04:57
+11c8dc76-f673-4be3-8a36-50fd3c228ff8,weeds.repair,available,5.38,29.18,high,low,5,spaceship,,,29/09/2026 08:19
 8b1c553d-4cd4-4f52-a19a-603b8b2426fd,turnovers.repair,available,12.99,36.99,medium,low,9,namesilo,,,19/09/2026 22:02
 451c4213-eb1e-4725-bc26-63300ba4d0a3,anguish.repair,available,12.99,36.99,medium,low,7,namesilo,,,19/09/2026 07:36
 bac8e47d-9124-479c-bb41-107ed0ddbfa2,ramirez.repair,premium,36.3,36.3,medium,low,7,dynadot,,,28/09/2026 08:04
@@ -820,19 +872,23 @@ fb1c39bb-36e6-440d-91ed-34c5df4034f0,fans.repair,available,5.98,47.48,medium,low
 fa1a038a-7910-4b1d-9bf0-821f16e7c7b1,monte.repair,available,5.38,29.18,high,low,5,spaceship,,,28/09/2026 05:47
 9f950351-12b8-4ed4-86d4-02f3894f3481,sack.repair,available,5.98,47.48,high,low,4,namecheap,,,03/09/2026 15:56
 4bc6c8f5-7b65-4d16-95ad-b5532c93d898,responsible.repair,available,12.99,36.99,high,low,11,namesilo,,,25/09/2026 11:15
+22509081-f6f8-4c7b-a743-78c3498794a0,josie.repair,available,5.98,47.48,high,low,5,namecheap,,,29/09/2026 21:56
 f691d9d3-b030-4684-93d2-8d8ad65d006e,nay.repair,available,5.98,47.48,medium,low,3,namecheap,,,15/09/2026 16:14
 5b9065fe-2380-4d8a-93f4-e1b880f6d334,paleozoic.repair,available,5.98,47.48,medium,low,9,namecheap,,,04/09/2026 23:39
 714db4a1-67f3-4b37-9294-659c2a4ce498,limbic.repair,available,5.98,47.48,medium,low,6,namecheap,,,23/08/2026 11:49
 87c77132-ec37-4b1e-b0ee-3f0063cef0ad,stamps.repair,available,5.38,29.18,medium,low,6,spaceship,,,28/09/2026 08:32
 011c9081-9d63-426a-a39f-024ae87eb20d,steak.repair,available,9.99,,high,low,5,name.com,,,
+57bc5a0a-bf0b-4daf-bbe9-179038959166,thicker.repair,available,5.38,29.18,medium,low,7,spaceship,,,29/09/2026 16:25
 b829a96a-44ef-4819-b8f8-2701e1cda81a,maoist.repair,available,5.98,47.48,medium,low,6,namecheap,,,24/08/2026 15:38
-05e35280-0fc1-47f8-93bf-9f7fd7c61293,kiev.repair,available,9.99,,high,low,4,name.com,,,
+05e35280-0fc1-47f8-93bf-9f7fd7c61293,kiev.repair,available,12.99,36.99,high,low,4,namesilo,,,29/09/2026 07:09
 b3540b25-2f0f-471d-accc-a6f015e43abb,lover.repair,available,12.99,36.99,high,low,5,namesilo,,,23/09/2026 10:15
 707eefb9-0be6-4656-90af-2c6de089a0ca,axiomatic.repair,available,5.98,47.48,medium,low,9,namecheap,,,05/08/2026 23:27
 d0055205-26ad-41d1-ae24-1180f3dd6991,mindanao.repair,available,12,,medium,low,8,unstoppable,,,28/09/2026 10:28
 9fef2ced-5312-4bf3-9292-e0cea3a94610,finance.repair,resell,,,high,medium,7,"Global Domains International, Inc. DBA DomainCostClub.com",08/12/2017 13:21,08/12/2026 13:21,28/09/2026 03:52
+b2f4abf5-b302-4c12-baa5-903ef7e6ac22,semen.repair,available,5.38,29.18,medium,low,5,spaceship,,,29/09/2026 18:24
 62d53fd2-cc27-43f6-9064-4cb1399d9359,praiseful.repair,available,5.98,47.48,medium,low,9,namecheap,,,22/08/2026 20:51
-a76ad6bf-77cd-4e05-b6e1-d0a796c9c26f,crusty.repair,available,5.98,47.48,medium,low,6,namecheap,,,13/08/2026 09:26
+a76ad6bf-77cd-4e05-b6e1-d0a796c9c26f,crusty.repair,available,5.98,47.48,high,low,6,namecheap,,,13/08/2026 09:26
+d0e1d03f-b93f-4a50-be1a-b288e6534717,prosecute.repair,available,12.99,36.99,high,low,9,namesilo,,,29/09/2026 20:42
 0ecc9e52-351c-4490-b446-fa9ae9c7a478,chirping.repair,available,9.99,,high,low,8,name.com,,,
 dccd4784-4dc7-44f7-86b5-ef031d7f16eb,trailer.repair,premium,242,242,high,low,7,namesilo,,,22/08/2026 18:43
 7c3380f5-4337-40a3-9bad-39fde6c16cd7,gallic.repair,available,5.98,47.48,medium,low,6,namecheap,,,18/08/2026 15:02
@@ -846,15 +902,17 @@ f859e1bd-5128-4a2e-b990-c105399a0dbc,determined.repair,available,12.99,36.99,hig
 f7fa42b3-3a87-4838-be39-19a268bbd139,lyrics.repair,available,9.99,,high,low,6,name.com,,,
 16a39332-6272-41b4-b580-c4039e811386,airstream.repair,available,12.99,36.99,high,low,9,namesilo,,,17/09/2026 23:23
 8e99ea2a-158a-4a5c-9345-25e03301610b,prox.repair,available,5.98,47.48,medium,low,4,namecheap,,,09/09/2026 04:42
+120b1e32-86bd-4b86-9679-168de0380283,quad.repair,available,5.38,29.18,high,low,4,spaceship,,,29/09/2026 13:30
 ed660499-f4fc-4dd5-bd49-66975b9c8047,malign.repair,available,5.98,47.48,medium,low,6,namecheap,,,24/08/2026 13:54
 15848aeb-a2e3-448a-8e37-09facea7eeb3,flaming.repair,available,5.98,47.48,high,low,7,namecheap,,,18/08/2026 06:30
 5bc8c351-363f-4b5a-a082-ef0319c43bb1,herself.repair,available,12.99,36.99,medium,low,7,namesilo,,,26/09/2026 03:24
 94ba6f08-9551-4294-bf45-acad6e6e67b6,pitiful.repair,available,5.98,47.48,medium,low,7,namecheap,,,14/08/2026 02:27
 0871a51d-3c37-49c3-b3c5-1e83c796c8a3,afar.repair,available,5.98,47.48,medium,low,4,namecheap,,,13/09/2026 17:46
+14415cf9-a34b-42e4-8a2b-c346b9410935,chauncey.repair,available,5.38,29.18,medium,low,8,spaceship,,,29/09/2026 15:30
 526eec69-f50e-41f8-bc4c-728af9d00d79,formulated.repair,available,5.98,47.48,high,low,10,namecheap,,,18/08/2026 12:22
 f919708f-bd99-4d2b-9e88-78034a9172ba,embryonic.repair,available,5.98,47.48,medium,low,9,namecheap,,,16/08/2026 13:28
 dbf6ec6d-60b6-48d8-a1fc-4b8a99a1f6df,numberless.repair,available,5.98,47.48,high,low,10,namecheap,,,13/08/2026 03:42
-0495a82b-02d4-4af2-b0fc-34b246530f28,sotho.repair,available,5.98,47.48,medium,low,5,namecheap,,,10/09/2026 14:39
+0495a82b-02d4-4af2-b0fc-34b246530f28,sotho.repair,available,5.98,47.48,high,low,5,namecheap,,,10/09/2026 14:39
 8546dc07-1bf1-4ba6-aff6-0694fef85fcc,nonpareil.repair,available,5.98,47.48,high,low,9,namecheap,,,24/08/2026 17:02
 e1323429-2b33-4770-8d80-9dfe8c8f7255,butterflies.repair,available,12.99,36.99,high,low,11,namesilo,,,16/09/2026 12:02
 1ddabaac-64fa-44d9-88b0-3fdf01d435be,attester.repair,available,12.99,36.99,medium,low,8,namesilo,,,21/09/2026 01:41
@@ -864,7 +922,7 @@ e1323429-2b33-4770-8d80-9dfe8c8f7255,butterflies.repair,available,12.99,36.99,hi
 2b1e726a-4927-4da2-8a73-587198ae9f2c,unreactive.repair,available,5.98,47.48,medium,low,10,namecheap,,,12/09/2026 17:50
 3033e523-af65-48c7-b3e3-16bd1a1a7380,rocambole.repair,available,12.99,36.99,medium,low,9,namesilo,,,18/09/2026 11:33
 45316835-5385-483f-b2b5-6ebfe8784a52,johnstown.repair,available,12,,medium,low,9,unstoppable,,,28/09/2026 22:27
-1a034edc-a646-4d47-93eb-11b2bbcf9e64,deftly.repair,available,5.98,47.48,medium,low,6,namecheap,,,14/09/2026 11:20
+1a034edc-a646-4d47-93eb-11b2bbcf9e64,deftly.repair,available,5.98,47.48,high,low,6,namecheap,,,14/09/2026 11:20
 4b99c54d-040b-4dc5-817b-60f1ff88971c,pealing.repair,available,12.99,36.99,medium,low,7,namesilo,,,19/09/2026 11:12
 18f9f774-53d2-4f9c-967f-683a65a13d16,remaining.repair,available,5.98,47.48,high,low,9,namecheap,,,22/08/2026 22:43
 a9011810-6be1-4019-a0b4-8530f2c42388,grasp.repair,available,12.99,36.99,high,low,5,namesilo,,,19/09/2026 22:13
@@ -872,40 +930,47 @@ a9011810-6be1-4019-a0b4-8530f2c42388,grasp.repair,available,12.99,36.99,high,low
 b5bc46c7-135f-4562-a7f2-eb49263f5375,hen.repair,available,12.99,36.99,high,low,3,namesilo,,,23/09/2026 13:44
 c48bbeb6-a72e-46e6-afc3-ebefde8e4272,estelle.repair,available,12.99,36.99,medium,low,7,namesilo,,,29/09/2026 03:59
 98a6f97e-6c5f-4ab3-887c-feb9f0df5b62,provides.repair,available,12.99,36.99,medium,low,8,namesilo,,,16/09/2026 11:52
+f0c829b1-75c9-4f8e-bf36-1b9a954d8149,vortex.repair,available,12.99,36.99,high,medium,6,namesilo,,,30/09/2026 01:05
 6db65ffc-75ad-48d4-a259-b1a981af3cd2,sensitive.repair,available,7.72,29.35,high,low,9,porkbun,,,27/09/2026 20:05
 665f12c2-fe88-442a-b213-8e87c8cd265f,judd.repair,available,5.98,47.48,medium,low,4,namecheap,,,27/09/2026 07:52
 c1a3321a-a140-44bd-ab2a-758e1de3f1da,morgue.repair,available,5.98,47.48,medium,low,6,namecheap,,,25/08/2026 06:42
 de53b1ac-dc9f-49ac-97c5-ca978ee652a4,afrikaner.repair,available,5.98,47.48,medium,low,9,namecheap,,,
 fae06803-7ac4-4d1a-884f-0fab0cfb39a1,robbing.repair,available,12,,medium,low,7,unstoppable,,,28/09/2026 23:49
 867dd03e-0641-481e-96be-ea96924d2187,dlc.repair,available,7.71,30.18,high,low,3,dynadot,,,28/09/2026 12:11
+68c70a4e-9218-4cbb-8ea6-61f3a5e4e183,expiration.repair,available,5.38,29.18,high,low,10,spaceship,,,29/09/2026 18:05
 b5280bbf-4173-463a-b787-b09df61f11f9,logically.repair,available,5.98,47.48,high,low,9,namecheap,,,15/09/2026 12:41
-13355170-116c-40dd-8c0f-2217cd6fffc7,bodily.repair,available,5.98,47.48,medium,low,6,namecheap,,,10/08/2026 16:52
+d4fed397-de8a-4387-913d-4776809fcd16,revision.repair,available,5.38,29.18,high,low,8,spaceship,,,29/09/2026 20:11
+13355170-116c-40dd-8c0f-2217cd6fffc7,bodily.repair,available,5.98,47.48,high,low,6,namecheap,,,10/08/2026 16:52
 61b47ebc-26d0-47b0-8c17-fec7972e1e4c,flop.repair,available,12.99,36.99,high,low,4,namesilo,,,23/09/2026 12:03
 b71842c8-91ee-4ba1-b415-a46193ea055b,histrionic.repair,available,5.98,47.48,medium,low,10,namecheap,,,21/08/2026 09:57
+ba1e4d71-d1ec-44c4-98c4-4d9568a0f2c9,carroll.repair,available,5.98,47.48,high,low,7,namecheap,,,29/09/2026 18:13
 6495596d-36c9-4f77-98b0-289e6413214e,leiden.repair,available,12.99,36.99,high,low,6,namesilo,,,25/09/2026 23:25
 8ea55406-7db7-4fb9-ae65-1bc765dc7bb8,bro.repair,available,9.99,,high,low,3,name.com,,,
 8465589a-4733-421c-b0fe-f3fb0913a3a5,imitative.repair,available,5.98,47.48,medium,low,9,namecheap,,,13/08/2026 03:34
 8e1bb4dc-2e48-498f-a584-c1c8542bd6cc,shagged.repair,available,5.98,47.48,medium,low,7,namecheap,,,10/09/2026 05:30
 5e349d47-9413-40a5-9e58-457e2692a9a3,subscribe.repair,available,12.99,36.99,high,low,9,namesilo,,,27/09/2026 22:05
-93012eea-2151-4e5f-90ac-9d06bfff3151,detective.repair,available,9.99,,high,low,9,name.com,,,
-e1defd03-7949-4b50-8427-545e130b6cb9,grandad.repair,available,9.99,,high,low,7,name.com,,,
+93012eea-2151-4e5f-90ac-9d06bfff3151,detective.repair,available,12,,high,low,9,unstoppable,,,29/09/2026 14:16
+e1defd03-7949-4b50-8427-545e130b6cb9,grandad.repair,available,5.38,29.18,high,low,7,spaceship,,,29/09/2026 21:10
 78571c23-9e14-4289-bb39-035c4496d5e3,lille.repair,available,7.71,30.18,high,low,5,dynadot,,,28/09/2026 06:10
 ab791532-7fef-4a37-8554-2d255feb2508,hurts.repair,available,28.2,28.2,medium,low,5,cloudflare,,,27/09/2026 23:53
 0942e8bb-f172-487a-8c18-60f072823e3d,startled.repair,available,5.98,47.48,medium,low,8,namecheap,,,10/09/2026 19:00
+71f0634a-6536-43d7-823f-d99981d4f9ad,ulm.repair,available,12.99,36.99,medium,low,3,namesilo,,,29/09/2026 09:33
 4344d0a8-810b-4b3c-bcdc-41d104ea0523,formative.repair,available,5.98,47.48,high,low,9,namecheap,,,18/08/2026 12:07
+04b05de3-844b-4c14-b531-18eddf818e33,hari.repair,available,12.99,36.99,high,low,4,namesilo,,,29/09/2026 09:52
 f7cbb718-2326-4649-b2fe-6b6d3c3c8dfb,nonviolent.repair,available,5.98,47.48,high,low,10,namecheap,,,03/09/2026 21:04
 5136332d-19d8-41d1-9462-22cdaf7aafdb,greenhouse.repair,available,5.98,47.48,high,low,10,namecheap,,,20/08/2026 19:51
 8c938904-af9e-4542-b387-5ddfdbc26891,operant.repair,available,5.98,47.48,high,low,7,namecheap,,,04/09/2026 16:22
 a0c6a07e-8b7f-4790-9997-b67f555dc988,defeat.repair,available,7.72,29.35,medium,low,6,porkbun,,,27/09/2026 12:58
 eefb306e-87db-4103-aab0-847d675f0b7a,sucks.repair,available,12.99,36.99,medium,low,5,namesilo,,,18/09/2026 11:29
 00034f83-1e96-4d2f-8e8a-a40ff6c0f2ca,endoscopic.repair,available,5.98,47.48,medium,low,10,namecheap,,,17/08/2026 01:19
-6d5af0ae-2d09-4287-8123-141147512e78,upset.repair,available,5.98,47.48,medium,low,5,namecheap,,,24/09/2026 11:19
+6d5af0ae-2d09-4287-8123-141147512e78,upset.repair,available,5.98,47.48,high,low,5,namecheap,,,24/09/2026 11:19
 cd78540a-3635-4c75-b38e-adc334efa1b4,cleaned.repair,available,12.99,36.99,high,low,7,namesilo,,,27/09/2026 02:45
 59ceeaf2-73bb-4aba-a77d-909c29770f33,loomis.repair,available,5.38,29.18,medium,low,6,spaceship,,,28/09/2026 12:17
 2c78141d-9a84-4110-ae7f-783804511ae4,supplicant.repair,available,5.98,47.48,medium,low,10,namecheap,,,11/09/2026 03:28
 685ffe80-0e92-404d-851b-9b478b4dad60,backgammon.repair,available,12.99,36.99,high,low,10,namesilo,,,21/09/2026 15:34
 cea44125-fadc-4adb-81ab-c0cae269746d,distaste.repair,available,12.99,36.99,medium,low,8,namesilo,,,19/09/2026 14:55
 62217b56-11dc-446a-a3d4-01f9577a5f62,explosive.repair,available,5.98,47.48,high,low,9,namecheap,,,17/08/2026 18:33
+25f919b0-e59b-4c79-a278-17f57ef4753b,fences.repair,available,12.99,36.99,medium,low,6,namesilo,,,29/09/2026 11:21
 49717bab-b035-415b-8453-4f39596fe342,untouched.repair,available,5.98,47.48,high,low,9,namecheap,,,12/09/2026 13:20
 13827c37-2501-43c5-94c0-51b9256bf6b4,learnedly.repair,available,5.98,47.48,medium,low,9,namecheap,,,14/09/2026 16:04
 e0b3d77e-9d20-4337-b728-8466c516c7ab,effective.repair,available,12.99,36.99,high,low,9,namesilo,,,24/09/2026 13:31
@@ -921,81 +986,16 @@ acc45cf6-e600-47d0-97e8-3fcaa9863227,lackluster.repair,available,5.98,47.48,medi
 1fb6cc9c-a7f2-4be6-9436-38c405235ff7,coercive.repair,available,5.98,47.48,medium,low,8,namecheap,,,12/08/2026 15:24
 c6dca409-5cd3-4a79-a126-5e991ecbe942,unrepaired.repair,available,5.98,47.48,high,low,10,namecheap,,,12/09/2026 18:17
 ceb46911-8870-4084-8559-07e3102f7f18,assassin.repair,available,12.99,36.99,high,low,8,namesilo,,,20/09/2026 15:43
-dc3a392c-2153-4fe0-b89c-3976ac2f185f,singapore.repair,available,,,high,high,9,,,,
 2ba94d43-dc02-4671-acc2-cb96ea4432fd,onstage.repair,available,5.98,47.48,high,low,8,namecheap,,,16/09/2026 19:36
 2d7805ac-1987-49d1-b17c-1c31671c77f1,nes.repair,available,5.38,29.18,high,low,3,spaceship,,,28/09/2026 03:45
 4bba895d-9cfb-43ef-be4b-15d3c40f76fc,pod.repair,available,5.98,47.48,high,medium,3,namecheap,,,12/08/2026 15:05
 ef13906c-a4b1-40c9-a625-be2c1a29188b,stinging.repair,available,13.99,46.99,high,low,8,name.com,,,13/08/2026 13:17
 b7b5d8b1-cef7-4fef-9615-3eef60138d80,unchecked.repair,available,5.98,47.48,medium,low,9,namecheap,,,12/09/2026 04:32
-30cef39f-694e-45fa-9c7b-b98c633ee474,cranial.repair,available,5.98,47.48,medium,low,7,namecheap,,,13/08/2026 04:49
+30cef39f-694e-45fa-9c7b-b98c633ee474,cranial.repair,available,5.98,47.48,high,low,7,namecheap,,,13/08/2026 04:49
 1877e86e-5c18-446a-bbe8-e1349caf2454,observant.repair,available,5.98,47.48,high,low,9,namecheap,,,22/08/2026 21:19
 e7224073-d841-4e4c-bc61-e874d4354ca3,saul.repair,available,5.98,47.48,high,low,4,namecheap,,,19/09/2026 19:29
 30ada8a8-47d5-4b84-9467-3d2c28129c72,serious.repair,available,12.99,36.99,high,low,7,namesilo,,,24/09/2026 23:04
 174517d0-1ee3-41c7-b2fc-0233b835f46c,mealy.repair,available,5.98,47.48,low,low,5,namecheap,,,12/08/2026 14:05
-50f5aaec-8015-43a5-8b91-d1d4e05a17f9,lined.repair,available,5.98,47.48,medium,low,5,namecheap,,,23/08/2026 14:17
+01af2918-366d-4639-90c1-5d229a144511,markings.repair,available,12.99,36.99,medium,low,8,namesilo,,,29/09/2026 10:28
+50f5aaec-8015-43a5-8b91-d1d4e05a17f9,lined.repair,available,5.98,47.48,high,low,5,namecheap,,,23/08/2026 14:17
 3827cbbf-f3ed-4ce5-aca7-592bf692321a,aedes.repair,available,12.99,36.99,medium,low,5,namesilo,,,17/09/2026 12:09
-ca42694b-3342-4ff6-9d0c-05fa90a7f127,commerce.repair,available,5.38,29.18,high,low,8,spaceship,,,28/09/2026 15:11
-c399834f-b9a4-451c-b958-82cd79c2d7ba,disjunct.repair,available,5.98,47.48,medium,low,8,namecheap,,,14/08/2026 11:25
-32eface3-3a57-4455-a572-237a7a38322f,dreaming.repair,available,12.99,36.99,high,low,8,namesilo,,,24/09/2026 23:58
-75d27e6d-b383-49d9-aa0f-10d9d2a0523b,crusted.repair,available,5.98,47.48,medium,low,7,namecheap,,,13/08/2026 09:22
-6badaad0-7cd4-4c3b-bf96-146a304c2b62,tomatoes.repair,available,5.98,47.48,medium,low,8,namecheap,,,28/09/2026 12:33
-0ea66d29-f721-4f2c-8e11-d945f972c654,complete.repair,available,5.98,47.48,high,low,8,namecheap,,,19/09/2026 19:02
-b4c8a6bf-8df6-44a4-99b0-1e6583159fc2,cuisine.repair,available,28.2,28.2,high,low,7,cloudflare,,,28/09/2026 04:20
-b89dda34-9c37-4d60-aef0-bbc3bf60d3a2,cochran.repair,available,5.38,29.18,medium,low,7,spaceship,,,27/09/2026 12:38
-e56e1eb1-b5e0-413d-abd9-3ff8478e313d,lister.repair,available,12.99,36.99,medium,low,6,namesilo,,,22/09/2026 07:14
-faa3b9df-e97c-4f74-8be3-d176db4603a0,fearlessly.repair,available,5.98,47.48,medium,low,10,namecheap,,,14/09/2026 10:44
-bfd5823f-09f3-4d84-a4d9-3e9c97b29b1b,yamamoto.repair,available,28.2,28.2,medium,low,8,cloudflare,,,28/09/2026 19:31
-f271e02f-5d1e-47a6-bae5-e7c3825b15e6,thursday.repair,available,9.99,,high,low,8,name.com,,,
-69d87f99-4817-443a-84c8-2baf9c557709,sonsy.repair,available,5.98,47.48,medium,low,5,namecheap,,,10/08/2026 20:35
-c2032842-076c-4f6a-b4c9-a246b2a4c9d2,bowen.repair,available,12.99,36.99,medium,low,5,namesilo,,,25/09/2026 12:42
-b88571b5-2b02-4bdf-bcfd-e6a41a7923d3,reverse.repair,available,5.98,47.48,high,low,7,namecheap,,,23/09/2026 22:34
-a2200a33-7adf-4c09-b424-b5db1d0c59c9,exist.repair,available,9.99,,high,low,5,name.com,,,
-a61b3284-410a-4541-a6fa-bba72a188c3f,hahn.repair,available,12.99,36.99,high,low,4,namesilo,,,27/09/2026 04:20
-06d50ca1-98a2-4b14-8587-5fdbe7945653,blackbeard.repair,available,5.98,47.48,medium,low,10,namecheap,,,24/09/2026 02:06
-5a6bddb3-d732-4758-89ea-82f66dbdb453,bevy.repair,available,12.99,36.99,medium,low,4,namesilo,,,23/09/2026 12:05
-0ba54d63-7ebb-4d3f-abd2-82d99c4f6e61,unafraid.repair,available,5.98,47.48,high,low,8,namecheap,,,10/09/2026 01:28
-076814b6-064c-4abf-b259-2e6c064755f1,poems.repair,available,12.99,36.99,medium,low,5,namesilo,,,18/09/2026 16:34
-1f4ebe9a-782a-4028-9f77-d18fe2ddcdbe,flourishing.repair,available,9.99,,high,low,11,name.com,,,
-88b939f0-021f-4dc6-88d9-25356bfebff6,hobart.repair,available,13.99,46.99,high,low,6,name.com,,,25/09/2026 07:24
-d79f435c-0312-4d0b-8abb-77ef9f6f85a5,vowels.repair,available,13.99,46.99,medium,low,6,name.com,,,20/09/2026 00:07
-42b94a48-b3f8-4172-9bee-a0f0dde59580,smarts.repair,available,5.98,47.48,high,low,6,namecheap,,,16/09/2026 18:16
-e21cdbd3-6be3-4c48-84c6-ee554c5f41bf,credence.repair,available,12.99,36.99,high,low,8,namesilo,,,16/09/2026 21:59
-84a0a297-f89f-47de-b5c1-d1190cbcabda,improperly.repair,available,5.98,47.48,medium,low,10,namecheap,,,15/09/2026 04:32
-1eeb9328-23fe-4ec5-ae44-7a3dfd9c2780,rewardful.repair,available,5.98,47.48,medium,low,9,namecheap,,,09/09/2026 16:27
-6117ab73-b826-458c-b454-cb775a8cd694,headfirst.repair,available,5.98,47.48,medium,low,9,namecheap,,,21/08/2026 01:52
-6900f832-bbea-455f-b94a-cd9176d02c9d,sinister.repair,available,5.98,47.48,medium,low,8,namecheap,,,24/08/2026 20:02
-17b1d5d6-c1ec-4efe-a25f-6cfb2ca2079c,roman.repair,available,12.99,36.99,high,low,5,namesilo,,,27/09/2026 02:43
-8cf69a3d-c2b4-47d2-a8b1-b36d0fb962a8,phantom.repair,available,5.98,47.48,high,low,7,namecheap,,,08/09/2026 18:32
-8ac6bed8-6107-41a9-9682-4e71443a18c1,replaced.repair,available,5.38,29.18,high,low,8,spaceship,,,27/09/2026 22:59
-83171363-1475-4f6c-b6d1-58f625aff9bd,filmable.repair,available,5.98,47.48,medium,low,8,namecheap,,,18/08/2026 04:23
-70ec7b84-a7d8-4115-8114-bbccf90a2c55,flex.repair,available,12.99,36.99,high,medium,4,namesilo,,,23/09/2026 07:41
-ad7e8fc4-adf7-4a0f-b7af-e8fd27df3309,lethargic.repair,available,5.98,47.48,medium,low,9,namecheap,,,23/08/2026 00:27
-789ed2a2-0617-4565-bbef-26dc42914f13,ayah.repair,available,12.99,36.99,high,low,4,namesilo,,,21/09/2026 10:32
-2453e2f0-d249-4c5a-aa73-065566ef8678,cuboid.repair,available,5.98,47.48,medium,low,6,namecheap,,,13/08/2026 09:58
-1dea72eb-a2a3-4a4c-829f-35b78b869f1a,novi.repair,available,28.2,28.2,high,low,4,cloudflare,,,28/09/2026 21:12
-05787c83-b1c0-4cfd-89f6-3da540f8d903,parched.repair,available,5.98,47.48,medium,low,7,namecheap,,,
-25a5b438-50ee-4a57-8c1f-a53723e384d6,convicted.repair,available,7.71,30.18,medium,low,9,dynadot,,,27/09/2026 23:23
-12848498-a6d2-43e2-baf6-a6d4603ebf29,misguided.repair,available,5.98,47.48,medium,low,9,namecheap,,,21/08/2026 18:57
-087e2ed0-c1b7-4c1a-bb01-5a1c6a739ddc,unhuman.repair,available,5.98,47.48,medium,low,7,namecheap,,,14/08/2026 00:04
-7775c9a4-c697-4faa-aa55-81fea39b3fc6,beveridge.repair,available,12.99,36.99,medium,low,9,namesilo,,,23/09/2026 12:04
-5e27b4bb-9f29-428d-abb8-ab52a43e766f,paso.repair,available,12.99,36.99,medium,low,4,namesilo,,,29/09/2026 03:36
-7a45d2b5-b658-40c4-bf77-92f6dfe0ef51,alexia.repair,available,5.98,47.48,medium,low,6,namecheap,,,18/09/2026 06:04
-6b055f7b-4aa3-42be-a0f2-b1922d11b8f9,obtuse.repair,available,12.99,36.99,medium,low,6,namesilo,,,24/09/2026 12:17
-39d90873-4a76-4305-9242-c27264ccb0a6,homing.repair,available,5.98,47.48,medium,low,6,namecheap,,,21/08/2026 12:35
-ce703a2c-5b9e-4d63-b6be-57abff8dcf8e,absence.repair,available,28.2,28.2,medium,low,7,cloudflare,,,28/09/2026 17:04
-075f424d-a218-4c87-bd6d-c5eaf651a845,ardea.repair,available,5.98,47.48,medium,low,5,namecheap,,,20/09/2026 03:04
-6aaafffe-6141-49e8-aa8d-40adfb8223ba,affinal.repair,available,5.98,47.48,medium,low,7,namecheap,,,
-9decf6b1-3f93-4050-af60-b4dbdf9e934a,obscure.repair,available,5.98,47.48,high,low,7,namecheap,,,05/08/2026 21:59
-f7814154-af8b-41a5-9d30-57774cf47fe5,ames.repair,available,12.99,36.99,high,low,4,namesilo,,,25/09/2026 12:32
-8aed8ec1-c526-43e0-8dc5-846a630d21ba,araguaia.repair,available,5.98,47.48,medium,low,8,namecheap,,,19/09/2026 23:45
-4442248f-ec18-457d-aeaa-9d0fba534727,outspread.repair,available,5.98,47.48,high,low,9,namecheap,,,04/09/2026 19:47
-2727845d-6b55-4538-80df-3453fb4b7bc3,bonds.repair,available,12.99,36.99,high,low,5,namesilo,,,28/09/2026 04:31
-df9be260-220b-4b72-a560-f8f710678477,cathy.repair,available,12.99,36.99,high,low,5,namesilo,,,17/09/2026 16:36
-b0fcb626-d334-472c-b9c7-f2904e6ac0ea,squash.repair,available,5.38,29.18,high,low,6,spaceship,,,28/09/2026 06:22
-480adee5-cb15-4d32-80c8-90588471c405,symbolic.repair,available,5.98,47.48,high,low,8,namecheap,,,16/08/2026 09:31
-86ee80d3-2046-490e-9202-13dc5dd7daaf,garcia.repair,premium,42.9,42.9,high,low,6,namecheap,,,25/09/2026 20:50
-0d3eaab4-0fb2-46ae-9f35-05f134f557ce,unlisted.repair,available,5.98,47.48,medium,low,8,namecheap,,,12/09/2026 14:55
-0cecced3-26cb-49e8-803f-3625ce5a3574,dinar.repair,available,12.99,36.99,high,low,5,namesilo,,,18/09/2026 07:02
-cb4167aa-603b-4b56-a776-9e548cde6dfa,yong.repair,available,12.99,36.99,medium,low,4,namesilo,,,28/09/2026 16:51
-ba7ea9df-aaf2-4d28-9d17-9e683e3b8d25,infant.repair,available,12.99,36.99,high,low,6,namesilo,,,29/09/2026 00:05
-1a4ecc6c-143e-439a-9da1-1aa18990532f,pla.repair,available,28.2,28.2,high,low,3,cloudflare,,,27/09/2026 18:08
